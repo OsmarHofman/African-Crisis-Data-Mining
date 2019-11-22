@@ -1,0 +1,1060 @@
+,country,year,exch_usd,domestic_debt_in_default,sovereign_external_debt_default,gdp_weighted_default,inflation_annual_cpi,independence,currency_crises,inflation_crises,banking_crisis,systemic_crisis
+0,Algeria,1870,0,False,False,0.0,1,False,False,False,True,True
+1,Algeria,1871,0,False,False,0.0,3,False,False,False,False,False
+2,Algeria,1872,0,False,False,0.0,0,False,False,False,False,False
+3,Algeria,1873,0,False,False,0.0,2,False,False,False,False,False
+4,Algeria,1874,0,False,False,0.0,0,False,False,False,False,False
+5,Algeria,1875,0,False,False,0.0,0,False,False,False,False,False
+6,Algeria,1876,0,False,False,0.0,0,False,False,False,False,False
+7,Algeria,1877,0,False,False,0.0,3,False,False,True,False,False
+8,Algeria,1878,0,False,False,0.0,0,False,False,False,False,False
+9,Algeria,1879,0,False,False,0.0,0,False,False,False,False,False
+10,Algeria,1880,0,False,False,0.0,1,False,False,False,False,False
+11,Algeria,1881,0,False,False,0.0,3,False,False,False,False,False
+12,Algeria,1882,0,False,False,0.0,0,False,False,False,False,False
+13,Algeria,1883,0,False,False,0.0,0,False,False,False,False,False
+14,Algeria,1884,0,False,False,0.0,0,False,False,False,False,False
+15,Algeria,1939,1,False,False,0.0,2,False,False,False,False,False
+16,Algeria,1940,1,False,False,0.0,3,False,False,True,False,False
+17,Algeria,1941,1,False,False,0.0,3,False,False,False,False,False
+18,Algeria,1942,1,False,False,0.0,3,False,False,True,False,False
+19,Algeria,1943,1,False,False,0.0,3,False,True,True,False,False
+20,Algeria,1944,1,False,False,0.0,3,False,True,True,False,False
+21,Algeria,1945,2,False,False,0.0,3,False,False,True,False,False
+22,Algeria,1946,2,False,False,0.0,3,False,False,False,False,False
+23,Algeria,1947,2,False,False,0.0,3,False,False,True,False,False
+24,Algeria,1948,2,False,False,0.0,3,False,False,True,False,False
+25,Algeria,1949,2,False,False,0.0,3,False,False,True,False,False
+26,Algeria,1950,2,False,False,0.0,0,False,False,False,False,False
+27,Algeria,1951,2,False,False,0.0,2,False,False,False,False,False
+28,Algeria,1952,2,False,False,0.0,2,False,False,False,False,False
+29,Algeria,1953,2,False,False,0.0,0,False,False,False,False,False
+30,Algeria,1954,2,False,False,0.0,0,False,False,False,False,False
+31,Algeria,1955,2,False,False,0.0,0,False,False,False,False,False
+32,Algeria,1956,2,False,False,0.0,0,False,False,False,False,False
+33,Algeria,1957,2,False,False,0.0,1,False,False,False,False,False
+34,Algeria,1958,2,False,False,0.0,3,False,False,False,False,False
+35,Algeria,1959,2,False,False,0.0,2,False,False,False,False,False
+36,Algeria,1960,2,False,False,0.0,1,False,True,False,False,False
+37,Algeria,1961,2,False,False,0.0,1,False,False,False,False,False
+38,Algeria,1968,2,False,False,0.0,2,True,False,False,False,False
+39,Algeria,1969,2,False,False,0.0,1,True,False,False,False,False
+40,Algeria,1970,2,False,False,0.0,1,True,False,False,False,False
+41,Algeria,1971,2,False,False,0.0,2,True,False,False,False,False
+42,Algeria,1972,2,False,False,0.0,1,True,False,False,False,False
+43,Algeria,1973,2,False,False,0.0,2,True,False,False,False,False
+44,Algeria,1974,2,False,False,0.0,2,True,False,False,False,False
+45,Algeria,1975,2,False,False,0.0,3,True,False,False,False,False
+46,Algeria,1976,2,False,False,0.0,3,True,False,False,False,False
+47,Algeria,1977,2,False,False,0.0,2,True,False,False,False,False
+48,Algeria,1978,2,False,False,0.0,2,True,False,False,False,False
+49,Algeria,1979,2,False,False,0.0,3,True,False,False,False,False
+50,Algeria,1980,2,False,False,0.0,2,True,False,False,False,False
+51,Algeria,1981,2,False,False,0.0,3,True,False,False,False,False
+52,Algeria,1982,2,False,False,0.0,2,True,False,False,False,False
+53,Algeria,1983,2,False,False,0.0,2,True,False,False,False,False
+54,Algeria,1984,2,False,False,0.0,2,True,False,False,False,False
+55,Algeria,1985,2,False,False,0.0,2,True,False,False,False,False
+56,Algeria,1986,2,False,False,0.0,3,True,False,False,False,False
+57,Algeria,1987,2,False,False,0.0,2,True,False,False,False,False
+58,Algeria,1988,2,False,False,0.0,2,True,True,False,False,False
+59,Algeria,1989,2,False,False,0.0,2,True,True,False,False,False
+60,Algeria,1990,3,False,False,0.0,2,True,True,False,True,True
+61,Algeria,1991,3,False,True,0.23,3,True,True,True,True,True
+62,Algeria,1992,3,False,True,0.23,3,True,False,True,True,True
+63,Algeria,1993,3,False,True,0.23,3,True,False,True,False,False
+64,Algeria,1994,3,False,True,0.23,3,True,True,True,False,False
+65,Algeria,1995,3,False,True,0.23,3,True,True,True,False,False
+66,Algeria,1996,3,False,True,0.23,3,True,False,False,False,False
+67,Algeria,1997,3,False,False,0.0,1,True,False,False,False,False
+68,Algeria,1998,3,False,False,0.0,1,True,False,False,False,False
+69,Algeria,1999,3,False,False,0.0,1,True,False,False,False,False
+70,Algeria,2000,3,False,False,0.0,0,True,False,False,False,False
+71,Algeria,2001,3,False,False,0.0,1,True,False,False,False,False
+72,Algeria,2002,3,False,False,0.0,0,True,False,False,False,False
+73,Algeria,2003,3,False,False,0.0,1,True,False,False,False,False
+74,Algeria,2004,3,False,False,0.0,1,True,False,False,False,False
+75,Algeria,2005,3,False,False,0.0,0,True,False,False,False,False
+76,Algeria,2006,3,False,False,0.0,1,True,False,False,False,False
+77,Algeria,2007,3,False,False,0.0,1,True,False,False,False,False
+78,Algeria,2008,3,False,False,0.0,1,True,False,False,False,False
+79,Algeria,2009,3,False,False,0.0,1,True,False,False,False,False
+80,Algeria,2010,3,False,False,0.0,1,True,False,False,False,False
+81,Algeria,2011,3,False,False,0.0,1,True,False,False,False,False
+82,Algeria,2012,3,False,False,0.0,2,True,False,False,False,False
+83,Algeria,2013,3,False,False,0.0,1,True,False,False,False,False
+84,Algeria,2014,3,False,False,0.0,1,True,False,False,False,False
+85,Angola,1921,0,False,False,0.0,3,False,False,True,False,False
+86,Angola,1922,0,False,False,0.0,3,False,False,True,False,False
+87,Angola,1923,0,False,False,0.0,3,False,False,True,False,False
+88,Angola,1924,0,False,False,0.0,3,False,False,True,False,False
+89,Angola,1925,0,False,False,0.0,0,False,False,False,False,False
+90,Angola,1926,0,False,False,0.0,0,False,False,False,False,False
+91,Angola,1927,0,False,False,0.0,0,False,False,False,False,False
+92,Angola,1928,0,False,False,0.0,0,False,False,False,False,False
+93,Angola,1929,0,False,False,0.0,0,False,False,False,False,False
+94,Angola,1930,0,False,False,0.0,0,False,False,False,False,False
+95,Angola,1931,0,False,False,0.0,0,False,False,False,False,False
+96,Angola,1932,0,False,False,0.0,0,False,False,False,False,False
+97,Angola,1933,0,False,False,0.0,1,False,False,False,False,False
+98,Angola,1934,0,False,False,0.0,1,False,False,False,False,False
+99,Angola,1935,0,False,False,0.0,1,False,False,False,False,False
+100,Angola,1936,0,False,False,0.0,0,False,False,False,False,False
+101,Angola,1937,0,False,False,0.0,0,False,False,False,False,False
+102,Angola,1938,0,False,False,0.0,0,False,False,False,False,False
+103,Angola,1939,0,False,False,0.0,0,False,False,False,False,False
+104,Angola,1940,0,False,False,0.0,3,False,False,False,False,False
+105,Angola,1941,0,False,False,0.0,3,False,False,False,False,False
+106,Angola,1942,0,False,False,0.0,3,False,False,False,False,False
+107,Angola,1943,0,False,False,0.0,3,False,False,False,False,False
+108,Angola,1944,0,False,False,0.0,2,False,False,False,False,False
+109,Angola,1945,0,False,False,0.0,1,False,False,False,False,False
+110,Angola,1946,0,False,False,0.0,1,False,False,False,False,False
+111,Angola,1947,0,False,False,0.0,3,False,False,False,False,False
+112,Angola,1948,0,False,False,0.0,0,False,False,False,False,False
+113,Angola,1949,0,False,False,0.0,0,False,False,False,False,False
+114,Angola,1950,0,False,False,0.0,1,False,False,False,False,False
+115,Angola,1951,0,False,False,0.0,0,False,False,False,False,False
+116,Angola,1952,0,False,False,0.0,1,False,False,False,False,False
+117,Angola,1953,0,False,False,0.0,0,False,False,False,False,False
+118,Angola,1954,0,False,False,0.0,0,False,False,False,False,False
+119,Angola,1955,0,False,False,0.0,0,False,False,False,False,False
+120,Angola,1956,0,False,False,0.0,1,False,False,False,False,False
+121,Angola,1957,0,False,False,0.0,0,False,False,False,False,False
+122,Angola,1958,0,False,False,0.0,0,False,False,False,False,False
+123,Angola,1959,0,False,False,0.0,0,False,True,False,False,False
+124,Angola,1960,0,False,False,0.0,0,False,False,False,False,False
+125,Angola,1961,0,False,False,0.0,0,False,False,False,False,False
+126,Angola,1962,0,False,False,0.0,2,False,False,False,False,False
+127,Angola,1970,0,False,False,0.0,2,False,True,False,False,False
+128,Angola,1971,0,False,False,0.0,2,False,False,False,False,False
+129,Angola,1972,0,False,False,0.0,3,False,True,False,False,False
+130,Angola,1973,0,False,False,0.0,3,False,True,False,False,False
+131,Angola,1974,0,False,False,0.0,3,False,False,True,False,False
+132,Angola,1975,0,False,False,0.0,3,True,False,True,False,False
+133,Angola,1976,0,True,False,0.0,3,True,False,True,False,False
+134,Angola,1977,0,False,False,0.0,3,True,False,True,False,False
+135,Angola,1978,0,False,False,0.0,3,True,False,True,False,False
+136,Angola,1979,0,False,False,0.0,3,True,False,True,False,False
+137,Angola,1980,0,False,False,0.0,3,True,False,True,False,False
+138,Angola,1991,0,False,True,0.0,3,True,True,True,False,False
+139,Angola,1992,0,True,True,0.0,3,True,True,True,True,False
+140,Angola,1993,0,True,True,0.0,3,True,True,True,True,False
+141,Angola,1994,0,True,True,0.0,3,True,True,True,True,False
+142,Angola,1995,0,True,True,0.0,3,True,2,True,True,False
+143,Angola,1996,1,True,True,0.0,3,True,True,True,True,False
+144,Angola,1997,1,True,True,0.0,3,True,True,True,True,False
+145,Angola,1998,1,True,True,0.0,3,True,True,True,True,False
+146,Angola,1999,2,True,True,0.0,3,True,2,True,False,False
+147,Angola,2000,3,True,True,0.0,3,True,True,True,False,False
+148,Angola,2001,3,True,True,0.0,3,True,True,True,False,False
+149,Angola,2002,3,True,True,0.0,3,True,True,True,False,False
+150,Angola,2003,3,False,True,0.0,3,True,True,True,False,False
+151,Angola,2004,3,False,False,0.0,3,True,True,True,False,False
+152,Angola,2005,3,False,False,0.0,3,True,True,True,False,False
+153,Angola,2006,3,False,False,0.0,3,True,False,False,False,False
+154,Angola,2007,3,False,False,0.0,3,True,False,False,False,False
+155,Angola,2008,3,False,False,0.0,3,True,False,False,False,False
+156,Angola,2009,3,False,False,0.0,3,True,True,False,False,False
+157,Angola,2010,3,False,False,0.0,3,True,False,False,False,False
+158,Angola,2011,3,False,False,0.0,3,True,False,False,False,False
+159,Angola,2012,3,False,False,0.0,2,True,False,False,False,False
+160,Angola,2013,3,False,False,0.0,2,True,False,False,False,False
+161,Angola,2014,3,False,False,0.0,2,True,False,False,False,False
+162,Central African Republic,1957,3,False,False,0.0,2,False,False,False,False,False
+163,Central African Republic,1958,3,False,False,0.0,3,False,False,False,False,False
+164,Central African Republic,1959,3,False,False,0.0,1,False,True,False,False,False
+165,Central African Republic,1960,3,False,False,0.0,2,True,False,False,False,False
+166,Central African Republic,1961,3,False,False,0.0,2,True,False,False,False,False
+167,Central African Republic,1962,3,False,False,0.0,2,True,False,False,False,False
+168,Central African Republic,1963,3,False,False,0.0,1,True,False,False,False,False
+169,Central African Republic,1964,3,False,False,0.0,2,True,False,False,False,False
+170,Central African Republic,1965,3,False,False,0.0,2,True,False,False,False,False
+171,Central African Republic,1966,3,False,False,0.0,1,True,False,False,False,False
+172,Central African Republic,1967,3,False,False,0.0,0,True,False,False,False,False
+173,Central African Republic,1968,3,False,False,0.0,1,True,False,False,False,False
+174,Central African Republic,1969,3,False,False,0.0,0,True,False,False,False,False
+175,Central African Republic,1970,3,False,False,0.0,1,True,False,False,False,False
+176,Central African Republic,1971,3,False,False,0.0,3,True,False,True,False,False
+177,Central African Republic,1972,3,False,False,0.0,0,True,False,False,False,False
+178,Central African Republic,1973,3,False,False,0.0,1,True,False,False,False,False
+179,Central African Republic,1974,3,False,False,0.0,2,True,False,False,False,False
+180,Central African Republic,1975,3,False,False,0.0,3,True,False,False,False,False
+181,Central African Republic,1976,3,False,False,0.0,2,True,False,False,True,True
+182,Central African Republic,1977,3,False,False,0.0,2,True,False,False,True,True
+183,Central African Republic,1978,3,False,False,0.0,2,True,False,False,True,True
+184,Central African Republic,1979,3,False,False,0.0,2,True,False,False,True,True
+185,Central African Republic,1980,3,False,False,0.0,3,True,False,False,True,True
+186,Central African Republic,1981,3,False,True,0.0,3,True,False,False,True,True
+187,Central African Republic,1982,3,False,False,0.0,3,True,False,False,True,True
+188,Central African Republic,1983,3,False,True,0.0,3,True,False,False,False,False
+189,Central African Republic,1984,3,False,True,0.0,1,True,False,False,False,False
+190,Central African Republic,1985,3,False,True,0.0,2,True,False,False,False,False
+191,Central African Republic,1986,3,False,True,0.0,1,True,False,False,False,False
+192,Central African Republic,1987,3,False,True,0.0,0,True,False,False,False,False
+193,Central African Republic,1988,3,False,True,0.0,0,True,False,False,True,True
+194,Central African Republic,1989,3,False,True,0.0,0,True,False,False,True,True
+195,Central African Republic,1990,3,False,True,0.0,0,True,False,False,True,True
+196,Central African Republic,1991,3,False,True,0.0,0,True,False,False,True,True
+197,Central African Republic,1992,3,False,True,0.0,0,True,False,False,True,True
+198,Central African Republic,1993,3,False,True,0.0,0,True,False,False,True,True
+199,Central African Republic,1994,3,False,True,0.0,3,True,True,True,True,True
+200,Central African Republic,1995,3,False,True,0.0,3,True,False,False,True,True
+201,Central African Republic,1996,3,False,True,0.0,1,True,False,False,True,True
+202,Central African Republic,1997,3,False,True,0.0,0,True,False,False,True,True
+203,Central African Republic,1998,3,False,True,0.0,0,True,False,False,True,True
+204,Central African Republic,1999,3,False,True,0.0,0,True,False,False,True,True
+205,Central African Republic,2000,3,False,True,0.0,1,True,False,False,False,False
+206,Central African Republic,2001,3,False,True,0.0,1,True,False,False,False,False
+207,Central African Republic,2002,3,False,True,0.0,1,True,False,False,False,False
+208,Central African Republic,2003,3,False,True,0.0,1,True,False,False,False,False
+209,Central African Republic,2004,3,False,True,0.0,0,True,False,False,False,False
+210,Central African Republic,2005,3,False,True,0.0,1,True,False,False,False,False
+211,Central African Republic,2006,3,False,True,0.0,2,True,False,False,False,False
+212,Central African Republic,2007,3,False,True,0.0,0,True,False,False,False,False
+213,Central African Republic,2008,3,False,True,0.0,2,True,False,False,False,False
+214,Central African Republic,2009,3,False,True,0.0,1,True,False,False,False,False
+215,Central African Republic,2010,3,False,True,0.0,0,True,False,False,False,False
+216,Central African Republic,2011,3,False,True,0.0,0,True,False,False,False,False
+217,Central African Republic,2012,3,False,True,0.0,2,True,False,False,False,False
+218,Central African Republic,2013,3,False,True,0.0,2,True,False,False,False,False
+219,Central African Republic,2014,3,False,True,0.0,2,True,False,False,False,False
+220,Ivory Coast,1952,0,False,False,0.0,3,False,False,False,False,False
+221,Ivory Coast,1953,0,False,False,0.0,1,False,False,False,False,False
+222,Ivory Coast,1954,0,False,False,0.0,0,False,False,False,False,False
+223,Ivory Coast,1955,0,False,False,0.0,1,False,False,False,False,False
+224,Ivory Coast,1956,0,False,False,0.0,1,False,False,False,False,False
+225,Ivory Coast,1957,0,False,False,0.0,3,False,False,False,False,False
+226,Ivory Coast,1958,0,False,False,0.0,3,False,False,True,False,False
+227,Ivory Coast,1959,0,False,False,0.0,2,False,False,False,False,False
+228,Ivory Coast,1960,0,False,False,0.0,0,True,False,False,False,False
+229,Ivory Coast,1961,0,False,False,0.0,3,True,False,False,False,False
+230,Ivory Coast,1962,0,False,False,0.0,0,True,False,False,False,False
+231,Ivory Coast,1963,0,False,False,0.0,2,True,False,False,False,False
+232,Ivory Coast,1964,0,False,False,0.0,0,True,False,False,False,False
+233,Ivory Coast,1965,0,False,False,0.0,0,True,False,False,False,False
+234,Ivory Coast,1966,0,False,False,0.0,1,True,False,False,False,False
+235,Ivory Coast,1967,0,False,False,0.0,1,True,False,False,False,False
+236,Ivory Coast,1968,0,False,False,0.0,2,True,False,False,False,False
+237,Ivory Coast,1969,0,False,False,0.0,1,True,False,False,False,False
+238,Ivory Coast,1970,3,False,False,0.0,2,True,False,False,False,False
+239,Ivory Coast,1971,3,False,False,0.0,0,True,False,False,False,False
+240,Ivory Coast,1972,3,False,False,0.0,0,True,False,False,False,False
+241,Ivory Coast,1973,3,False,False,0.0,3,True,False,False,False,False
+242,Ivory Coast,1974,3,False,False,0.0,3,True,False,False,False,False
+243,Ivory Coast,1975,3,False,False,0.0,2,True,False,False,False,False
+244,Ivory Coast,1976,3,False,False,0.0,3,True,False,False,False,False
+245,Ivory Coast,1977,3,False,False,0.0,3,True,False,True,False,False
+246,Ivory Coast,1978,3,False,False,0.0,3,True,False,False,False,False
+247,Ivory Coast,1979,3,False,False,0.0,3,True,False,True,False,False
+248,Ivory Coast,1980,3,False,False,0.0,2,True,False,False,False,False
+249,Ivory Coast,1981,3,False,False,0.0,2,True,False,False,False,False
+250,Ivory Coast,1982,3,False,False,0.0,2,True,False,False,False,False
+251,Ivory Coast,1983,3,False,True,0.0,2,True,False,False,False,False
+252,Ivory Coast,1984,3,False,True,0.0,1,True,False,False,False,False
+253,Ivory Coast,1985,3,False,True,0.0,0,True,False,False,False,False
+254,Ivory Coast,1986,3,False,True,0.0,2,True,False,False,False,False
+255,Ivory Coast,1987,3,False,True,0.0,2,True,False,False,False,False
+256,Ivory Coast,1988,3,False,True,0.0,2,True,False,False,True,True
+257,Ivory Coast,1989,3,False,True,0.0,0,True,False,False,True,True
+258,Ivory Coast,1990,3,False,True,0.0,0,True,False,False,True,True
+259,Ivory Coast,1991,3,False,True,0.0,0,True,False,False,True,True
+260,Ivory Coast,1992,3,False,True,0.0,1,True,False,False,False,False
+261,Ivory Coast,1993,3,False,True,0.0,1,True,False,False,False,False
+262,Ivory Coast,1994,3,False,True,0.0,3,True,True,True,False,False
+263,Ivory Coast,1995,3,False,True,0.0,3,True,False,False,False,False
+264,Ivory Coast,1996,3,False,True,0.0,1,True,False,False,False,False
+265,Ivory Coast,1997,3,False,True,0.0,2,True,False,False,False,False
+266,Ivory Coast,1998,3,False,True,0.0,1,True,False,False,False,False
+267,Ivory Coast,1999,0,False,False,0.0,0,True,False,False,False,False
+268,Ivory Coast,2000,0,False,True,0.0,0,True,False,False,False,False
+269,Ivory Coast,2001,0,False,True,0.0,1,True,False,False,False,False
+270,Ivory Coast,2002,0,False,True,0.0,1,True,False,False,False,False
+271,Ivory Coast,2003,0,False,True,0.0,1,True,False,False,False,False
+272,Ivory Coast,2004,0,False,True,0.0,0,True,False,False,False,False
+273,Ivory Coast,2005,0,False,True,0.0,1,True,False,False,False,False
+274,Ivory Coast,2006,0,False,True,0.0,1,True,False,False,False,False
+275,Ivory Coast,2007,0,False,True,0.0,0,True,False,False,False,False
+276,Ivory Coast,2008,0,False,True,0.0,2,True,False,False,False,False
+277,Ivory Coast,2009,0,False,True,0.0,0,True,False,False,False,False
+278,Ivory Coast,2010,0,False,True,0.0,0,True,False,False,False,False
+279,Ivory Coast,2011,0,False,True,0.0,1,True,False,False,False,False
+280,Ivory Coast,2012,0,False,True,0.0,0,True,False,False,False,False
+281,Ivory Coast,2013,0,False,False,0.0,1,True,False,False,False,False
+282,Ivory Coast,2014,0,False,False,0.0,0,True,False,False,False,False
+283,Egypt,1860,1,False,False,0.0,2,True,False,False,False,False
+284,Egypt,1861,1,False,False,0.0,2,True,False,False,False,False
+285,Egypt,1862,1,False,False,0.0,2,True,False,False,False,False
+286,Egypt,1863,1,False,False,0.0,2,True,False,False,False,False
+287,Egypt,1864,1,False,False,0.0,2,True,False,False,False,False
+288,Egypt,1865,1,False,False,0.0,2,True,False,False,False,False
+289,Egypt,1866,1,False,False,0.0,2,True,False,False,False,False
+290,Egypt,1867,1,False,False,0.0,2,True,False,False,False,False
+291,Egypt,1868,1,False,False,0.0,2,True,False,False,False,False
+292,Egypt,1869,1,False,False,0.0,2,True,False,False,False,False
+293,Egypt,1870,1,False,False,0.0,2,True,False,False,False,False
+294,Egypt,1871,1,False,False,0.0,3,True,False,False,False,False
+295,Egypt,1872,1,False,False,0.0,0,True,False,False,False,False
+296,Egypt,1873,1,False,False,0.0,0,True,False,False,False,False
+297,Egypt,1874,1,False,False,0.0,0,True,False,False,False,False
+298,Egypt,1875,0,False,False,0.0,0,True,False,False,False,False
+299,Egypt,1876,1,False,True,0.4,0,True,False,False,False,False
+300,Egypt,1877,1,False,True,0.4,0,True,False,False,False,False
+301,Egypt,1878,1,False,True,0.4,0,True,False,False,False,False
+302,Egypt,1879,1,False,True,0.4,2,True,False,False,False,False
+303,Egypt,1880,1,False,True,0.4,0,True,False,False,False,False
+304,Egypt,1881,1,False,False,0.0,0,True,False,False,False,False
+305,Egypt,1882,1,False,False,0.0,1,True,False,False,False,False
+306,Egypt,1883,1,False,False,0.0,0,True,False,False,False,False
+307,Egypt,1884,1,False,False,0.0,0,True,False,False,False,False
+308,Egypt,1885,1,False,False,0.0,0,True,False,False,False,False
+309,Egypt,1886,1,False,False,0.0,1,True,False,False,False,False
+310,Egypt,1887,1,False,False,0.0,0,True,False,False,False,False
+311,Egypt,1888,1,False,False,0.0,0,True,False,False,False,False
+312,Egypt,1889,1,False,False,0.0,0,True,False,False,False,False
+313,Egypt,1890,1,False,False,0.0,2,True,False,False,False,False
+314,Egypt,1891,1,False,False,0.0,2,True,False,False,False,False
+315,Egypt,1892,1,False,False,0.0,0,True,False,False,False,False
+316,Egypt,1893,1,False,False,0.0,0,True,False,False,False,False
+317,Egypt,1894,1,False,False,0.0,0,True,False,False,False,False
+318,Egypt,1895,1,False,False,0.0,0,True,False,False,False,False
+319,Egypt,1896,1,False,False,0.0,2,True,False,False,False,False
+320,Egypt,1897,1,False,False,0.0,1,True,False,False,False,False
+321,Egypt,1898,1,False,False,0.0,3,True,False,False,False,False
+322,Egypt,1899,0,False,False,0.0,0,True,False,False,False,False
+323,Egypt,1900,1,False,False,0.0,2,True,False,False,False,False
+324,Egypt,1901,1,False,False,0.0,0,True,False,False,False,False
+325,Egypt,1902,1,False,False,0.0,0,True,False,False,False,False
+326,Egypt,1903,1,False,False,0.0,0,True,False,False,False,False
+327,Egypt,1904,1,False,False,0.0,0,True,False,False,False,False
+328,Egypt,1905,1,False,False,0.0,3,True,False,False,False,False
+329,Egypt,1906,1,False,False,0.0,2,True,False,False,False,False
+330,Egypt,1907,1,False,False,0.0,0,True,False,False,True,True
+331,Egypt,1908,1,False,False,0.0,2,True,False,False,False,False
+332,Egypt,1909,1,False,False,0.0,0,True,False,False,False,False
+333,Egypt,1910,1,False,False,0.0,0,True,False,False,False,False
+334,Egypt,1911,1,False,False,0.0,0,True,False,False,False,False
+335,Egypt,1912,1,False,False,0.0,2,True,False,False,False,False
+336,Egypt,1913,1,False,False,0.0,2,True,False,False,False,False
+337,Egypt,1914,1,False,False,0.0,0,True,False,False,False,False
+338,Egypt,1915,1,False,False,0.0,0,True,False,False,False,False
+339,Egypt,1916,1,False,False,0.0,3,True,False,False,False,False
+340,Egypt,1917,1,False,False,0.0,3,True,False,True,False,False
+341,Egypt,1918,1,False,False,0.0,3,True,False,False,False,False
+342,Egypt,1919,1,False,False,0.0,3,True,False,False,False,False
+343,Egypt,1920,1,False,False,0.0,3,True,False,True,False,False
+344,Egypt,1921,1,False,False,0.0,0,True,False,False,False,False
+345,Egypt,1922,1,False,False,0.0,0,True,False,False,False,False
+346,Egypt,1923,1,False,False,0.0,0,True,False,False,False,False
+347,Egypt,1924,1,False,False,0.0,2,True,False,False,False,False
+348,Egypt,1925,1,False,False,0.0,1,True,False,False,False,False
+349,Egypt,1926,1,False,False,0.0,0,True,False,False,False,False
+350,Egypt,1927,1,False,False,0.0,0,True,False,False,False,False
+351,Egypt,1928,1,False,False,0.0,1,True,False,False,False,False
+352,Egypt,1929,1,False,False,0.0,0,True,False,False,False,False
+353,Egypt,1930,1,False,False,0.0,0,True,False,False,False,False
+354,Egypt,1931,1,False,False,0.0,0,True,False,False,True,True
+355,Egypt,1932,1,False,False,0.0,0,True,False,False,False,False
+356,Egypt,1933,0,False,False,0.0,0,True,False,False,False,False
+357,Egypt,1934,1,False,False,0.0,3,True,False,True,False,False
+358,Egypt,1935,1,False,False,0.0,1,True,False,False,False,False
+359,Egypt,1936,1,False,False,0.0,0,True,False,False,False,False
+360,Egypt,1937,0,False,False,0.0,0,True,False,False,False,False
+361,Egypt,1938,1,False,False,0.0,2,True,False,False,False,False
+362,Egypt,1939,1,False,False,0.0,0,True,False,False,False,False
+363,Egypt,1940,1,False,False,0.0,2,True,False,False,False,False
+364,Egypt,1941,1,False,False,0.0,3,True,False,True,False,False
+365,Egypt,1942,1,False,False,0.0,3,True,False,True,False,False
+366,Egypt,1943,1,False,False,0.0,3,True,False,False,False,False
+367,Egypt,1944,1,False,False,0.0,2,True,False,False,False,False
+368,Egypt,1945,1,False,False,0.0,0,True,False,False,False,False
+369,Egypt,1946,1,False,False,0.0,1,True,False,False,False,False
+370,Egypt,1947,1,False,False,0.0,0,True,False,False,False,False
+371,Egypt,1948,1,False,False,0.0,0,True,False,False,False,False
+372,Egypt,1949,1,False,False,0.0,0,True,True,False,False,False
+373,Egypt,1950,1,False,False,0.0,2,True,False,False,False,False
+374,Egypt,1951,1,False,False,0.0,2,True,False,False,False,False
+375,Egypt,1952,1,False,False,0.0,0,True,False,False,False,False
+376,Egypt,1953,1,False,False,0.0,0,True,False,False,False,False
+377,Egypt,1954,1,False,False,0.0,0,True,False,False,False,False
+378,Egypt,1955,1,False,False,0.0,0,True,False,False,False,False
+379,Egypt,1956,1,False,False,0.0,1,True,False,False,False,False
+380,Egypt,1957,1,False,False,0.0,1,True,False,False,False,False
+381,Egypt,1958,1,False,False,0.0,0,True,False,False,False,False
+382,Egypt,1959,1,False,False,0.0,0,True,False,False,False,False
+383,Egypt,1960,1,False,False,0.0,0,True,False,False,False,False
+384,Egypt,1961,1,False,False,0.0,0,True,False,False,False,False
+385,Egypt,1962,1,False,False,0.0,0,True,True,False,False,False
+386,Egypt,1963,1,False,False,0.0,0,True,False,False,False,False
+387,Egypt,1964,1,False,False,0.0,2,True,False,False,False,False
+388,Egypt,1965,1,False,False,0.0,3,True,False,False,False,False
+389,Egypt,1966,1,False,False,0.0,2,True,False,False,False,False
+390,Egypt,1967,1,False,False,0.0,0,True,False,False,False,False
+391,Egypt,1968,1,False,False,0.0,0,True,False,False,False,False
+392,Egypt,1969,1,False,False,0.0,1,True,False,False,False,False
+393,Egypt,1970,1,False,False,0.0,1,True,False,False,False,False
+394,Egypt,1971,1,False,False,0.0,1,True,False,False,False,False
+395,Egypt,1972,1,False,False,0.0,1,True,False,False,False,False
+396,Egypt,1973,1,False,False,0.0,1,True,False,False,False,False
+397,Egypt,1974,1,False,False,0.0,2,True,False,False,False,False
+398,Egypt,1975,1,False,False,0.0,2,True,False,False,False,False
+399,Egypt,1976,1,False,False,0.0,2,True,False,False,False,False
+400,Egypt,1977,1,False,False,0.0,2,True,False,False,False,False
+401,Egypt,1978,1,False,False,0.0,2,True,False,False,False,False
+402,Egypt,1979,1,False,False,0.0,2,True,True,False,False,False
+403,Egypt,1980,1,False,False,0.0,3,True,False,True,False,True
+404,Egypt,1981,1,False,False,0.0,2,True,False,False,True,True
+405,Egypt,1982,1,False,False,0.0,3,True,False,False,True,True
+406,Egypt,1983,1,False,False,0.0,3,True,False,False,True,True
+407,Egypt,1984,1,False,True,0.4,3,True,False,False,False,False
+408,Egypt,1985,1,False,False,0.0,3,True,False,False,False,False
+409,Egypt,1986,1,False,False,0.0,3,True,False,True,False,False
+410,Egypt,1987,1,False,False,0.0,3,True,False,True,False,False
+411,Egypt,1988,1,False,False,0.0,3,True,False,False,False,False
+412,Egypt,1989,2,False,False,0.0,3,True,True,True,False,False
+413,Egypt,1990,2,False,False,0.0,3,True,True,True,True,False
+414,Egypt,1991,2,False,False,0.0,3,True,True,False,True,False
+415,Egypt,1992,2,False,False,0.0,3,True,False,True,True,False
+416,Egypt,1993,2,False,False,0.0,2,True,False,False,True,False
+417,Egypt,1994,2,False,False,0.0,2,True,False,False,True,False
+418,Egypt,1995,2,False,False,0.0,2,True,False,False,True,False
+419,Egypt,1996,2,False,False,0.0,2,True,False,False,False,False
+420,Egypt,1997,2,False,False,0.0,2,True,False,False,False,False
+421,Egypt,1998,2,False,False,0.0,1,True,False,False,False,False
+422,Egypt,1999,2,False,False,0.0,1,True,False,False,False,False
+423,Egypt,2000,2,False,False,0.0,1,True,False,False,False,False
+424,Egypt,2001,2,False,False,0.0,1,True,True,False,False,False
+425,Egypt,2002,2,False,False,0.0,1,True,False,False,False,False
+426,Egypt,2003,2,False,False,0.0,0,True,True,False,False,False
+427,Egypt,2004,2,False,False,0.0,2,True,False,False,False,False
+428,Egypt,2005,2,False,False,0.0,2,True,False,False,False,False
+429,Egypt,2006,2,False,False,0.0,1,True,False,False,False,False
+430,Egypt,2007,2,False,False,0.0,2,True,False,False,False,False
+431,Egypt,2008,2,False,False,0.0,3,True,False,False,False,False
+432,Egypt,2009,2,False,False,0.0,3,True,False,False,False,False
+433,Egypt,2010,2,False,False,0.0,3,True,False,False,False,False
+434,Egypt,2011,2,False,False,0.0,2,True,False,False,False,False
+435,Egypt,2012,2,False,False,0.0,2,True,False,False,False,False
+436,Egypt,2013,2,False,False,0.0,2,True,False,False,False,False
+437,Egypt,2014,2,False,False,0.0,2,True,False,False,False,False
+438,Kenya,1948,2,False,False,0.0,2,False,False,False,False,False
+439,Kenya,1949,2,False,False,0.0,1,False,False,False,False,False
+440,Kenya,1950,2,False,False,0.0,2,False,False,False,False,False
+441,Kenya,1951,2,False,False,0.0,2,False,False,False,False,False
+442,Kenya,1952,2,False,False,0.0,2,False,False,False,False,False
+443,Kenya,1953,2,False,False,0.0,1,False,False,False,False,False
+444,Kenya,1954,2,False,False,0.0,1,False,False,False,False,False
+445,Kenya,1955,2,False,False,0.0,2,False,False,False,False,False
+446,Kenya,1956,2,False,False,0.0,0,False,False,False,False,False
+447,Kenya,1957,2,False,False,0.0,1,False,False,False,False,False
+448,Kenya,1958,2,False,False,0.0,0,False,False,False,False,False
+449,Kenya,1959,2,False,False,0.0,0,False,False,False,False,False
+450,Kenya,1960,2,False,False,0.0,0,False,False,False,False,False
+451,Kenya,1961,2,False,False,0.0,1,False,False,False,False,False
+452,Kenya,1962,2,False,False,0.0,1,False,False,False,False,False
+453,Kenya,1963,2,False,False,0.0,0,True,False,False,False,False
+454,Kenya,1964,2,False,False,0.0,0,True,False,False,False,False
+455,Kenya,1965,2,False,False,0.0,1,True,False,False,False,False
+456,Kenya,1966,2,False,False,0.0,1,True,False,False,False,False
+457,Kenya,1967,2,False,False,0.0,0,True,False,False,False,False
+458,Kenya,1968,2,False,False,0.0,0,True,False,False,False,False
+459,Kenya,1969,2,False,False,0.0,0,True,False,False,False,False
+460,Kenya,1970,2,False,False,0.0,0,True,False,False,False,False
+461,Kenya,1971,2,False,False,0.0,1,True,False,False,False,False
+462,Kenya,1972,2,False,False,0.0,1,True,False,False,False,False
+463,Kenya,1973,2,False,False,0.0,3,True,False,False,False,False
+464,Kenya,1974,2,False,False,0.0,3,True,False,False,False,False
+465,Kenya,1975,2,False,False,0.0,3,True,False,False,False,False
+466,Kenya,1976,2,False,False,0.0,2,True,True,False,False,False
+467,Kenya,1977,2,False,False,0.0,3,True,False,False,False,False
+468,Kenya,1978,2,False,False,0.0,3,True,False,False,False,False
+469,Kenya,1979,2,False,False,0.0,2,True,False,False,False,False
+470,Kenya,1980,2,False,False,0.0,3,True,False,False,False,False
+471,Kenya,1981,3,False,False,0.0,2,True,True,False,False,False
+472,Kenya,1982,3,False,False,0.0,3,True,True,False,False,False
+473,Kenya,1983,3,False,False,0.0,2,True,False,False,False,False
+474,Kenya,1984,3,False,False,0.0,3,True,False,True,False,False
+475,Kenya,1985,3,False,False,0.0,2,True,False,False,True,True
+476,Kenya,1986,3,False,False,0.0,2,True,False,False,True,True
+477,Kenya,1987,3,False,False,0.0,3,True,False,False,True,True
+478,Kenya,1988,3,False,False,0.0,1,True,False,False,True,True
+479,Kenya,1989,3,False,False,0.0,2,True,True,False,False,True
+480,Kenya,1990,3,False,False,0.0,2,True,False,False,False,False
+481,Kenya,1991,3,False,False,0.0,3,True,True,False,False,False
+482,Kenya,1992,3,False,False,0.0,3,True,True,True,True,True
+483,Kenya,1993,3,False,False,0.0,3,True,True,True,True,True
+484,Kenya,1994,3,False,True,0.0,3,True,False,True,True,True
+485,Kenya,1995,3,False,True,0.0,0,True,False,False,True,True
+486,Kenya,1996,3,False,True,0.0,2,True,False,False,False,True
+487,Kenya,1997,3,False,True,0.0,3,True,False,False,False,True
+488,Kenya,1998,3,False,True,0.0,2,True,False,False,False,True
+489,Kenya,1999,3,False,False,0.0,1,True,True,False,False,True
+490,Kenya,2000,3,False,True,0.0,2,True,False,False,False,False
+491,Kenya,2001,3,False,False,0.0,2,True,False,False,False,False
+492,Kenya,2002,3,False,False,0.0,1,True,False,False,False,False
+493,Kenya,2003,3,False,False,0.0,2,True,False,False,False,False
+494,Kenya,2004,3,False,False,0.0,2,True,False,False,False,False
+495,Kenya,2005,3,False,False,0.0,2,True,False,False,False,False
+496,Kenya,2006,3,False,False,0.0,2,True,False,False,False,False
+497,Kenya,2007,3,False,False,0.0,1,True,False,False,False,False
+498,Kenya,2008,3,False,False,0.0,3,True,True,False,False,False
+499,Kenya,2009,3,False,False,0.0,2,True,False,False,False,False
+500,Kenya,2010,3,False,False,0.0,1,True,False,False,False,False
+501,Kenya,2011,3,False,False,0.0,3,True,False,False,False,False
+502,Kenya,2012,3,False,False,0.0,2,True,False,False,False,False
+503,Kenya,2013,3,False,False,0.0,1,True,False,False,False,False
+504,Kenya,2014,3,False,False,0.0,2,True,False,False,False,False
+505,Mauritius,1947,2,False,False,0.0,0,False,False,False,False,False
+506,Mauritius,1948,2,False,False,0.0,3,False,False,True,False,False
+507,Mauritius,1949,2,False,False,0.0,0,False,False,False,False,False
+508,Mauritius,1950,2,False,False,0.0,1,False,False,False,False,False
+509,Mauritius,1951,2,False,False,0.0,2,False,False,False,False,False
+510,Mauritius,1952,2,False,False,0.0,0,False,False,False,False,False
+511,Mauritius,1953,2,False,False,0.0,0,False,False,False,False,False
+512,Mauritius,1954,2,False,False,0.0,0,False,False,False,False,False
+513,Mauritius,1955,2,False,False,0.0,0,False,False,False,False,False
+514,Mauritius,1956,2,False,False,0.0,1,False,False,False,False,False
+515,Mauritius,1957,2,False,False,0.0,0,False,False,False,False,False
+516,Mauritius,1958,2,False,False,0.0,0,False,False,False,False,False
+517,Mauritius,1959,2,False,False,0.0,0,False,False,False,False,False
+518,Mauritius,1960,2,False,False,0.0,0,False,False,False,False,False
+519,Mauritius,1961,2,False,False,0.0,0,False,False,False,False,False
+520,Mauritius,1962,2,False,False,0.0,0,False,False,False,False,False
+521,Mauritius,1963,2,False,False,0.0,0,True,False,False,False,False
+522,Mauritius,1964,2,False,False,0.0,0,True,False,False,False,False
+523,Mauritius,1965,2,False,False,0.0,0,True,False,False,False,False
+524,Mauritius,1966,2,False,False,0.0,1,True,False,False,False,False
+525,Mauritius,1967,2,False,False,0.0,1,True,False,False,False,False
+526,Mauritius,1968,2,False,False,0.0,1,True,False,False,False,False
+527,Mauritius,1969,2,False,False,0.0,1,True,False,False,False,False
+528,Mauritius,1970,2,False,False,0.0,0,True,False,False,False,False
+529,Mauritius,1971,2,False,False,0.0,0,True,False,False,False,False
+530,Mauritius,1972,2,False,False,0.0,1,True,False,False,False,False
+531,Mauritius,1973,2,False,False,0.0,3,True,False,True,False,False
+532,Mauritius,1974,2,False,False,0.0,3,True,False,True,False,False
+533,Mauritius,1975,2,False,False,0.0,3,True,False,False,False,False
+534,Mauritius,1976,2,False,False,0.0,2,True,False,False,False,False
+535,Mauritius,1977,2,False,False,0.0,2,True,False,False,False,False
+536,Mauritius,1978,2,False,False,0.0,2,True,False,False,False,False
+537,Mauritius,1979,2,False,False,0.0,3,True,True,True,False,False
+538,Mauritius,1980,2,False,False,0.0,3,True,False,True,False,False
+539,Mauritius,1981,3,False,False,0.0,3,True,True,True,False,False
+540,Mauritius,1982,3,False,False,0.0,3,True,False,False,False,False
+541,Mauritius,1983,3,False,False,0.0,2,True,True,False,False,False
+542,Mauritius,1984,3,False,False,0.0,1,True,True,False,False,False
+543,Mauritius,1985,3,False,False,0.0,2,True,False,False,False,False
+544,Mauritius,1986,3,False,False,0.0,1,True,False,False,False,False
+545,Mauritius,1987,3,False,False,0.0,0,True,False,False,False,False
+546,Mauritius,1988,3,False,False,0.0,1,True,False,False,False,False
+547,Mauritius,1989,3,False,False,0.0,3,True,False,False,False,False
+548,Mauritius,1990,3,False,False,0.0,2,True,False,False,False,False
+549,Mauritius,1991,3,False,False,0.0,3,True,False,False,False,False
+550,Mauritius,1992,3,False,False,0.0,1,True,False,False,False,False
+551,Mauritius,1993,3,False,False,0.0,3,True,False,False,False,False
+552,Mauritius,1994,3,False,False,0.0,2,True,False,False,False,False
+553,Mauritius,1995,3,False,False,0.0,2,True,False,False,False,False
+554,Mauritius,1996,3,False,False,0.0,2,True,False,False,True,False
+555,Mauritius,1997,3,False,False,0.0,2,True,True,False,False,False
+556,Mauritius,1998,3,False,False,0.0,2,True,False,False,False,False
+557,Mauritius,1999,3,False,False,0.0,2,True,False,False,False,False
+558,Mauritius,2000,3,False,False,0.0,1,True,False,False,False,False
+559,Mauritius,2001,3,False,False,0.0,1,True,False,False,False,False
+560,Mauritius,2002,3,False,False,0.0,2,True,False,False,False,False
+561,Mauritius,2003,3,False,False,0.0,1,True,False,False,False,False
+562,Mauritius,2004,3,False,False,0.0,1,True,False,False,False,False
+563,Mauritius,2005,3,False,False,0.0,1,True,False,False,False,False
+564,Mauritius,2006,3,False,False,0.0,2,True,False,False,False,False
+565,Mauritius,2007,3,False,False,0.0,2,True,False,False,False,False
+566,Mauritius,2008,3,False,False,0.0,2,True,False,False,False,False
+567,Mauritius,2009,3,False,False,0.0,1,True,False,False,False,False
+568,Mauritius,2010,3,False,False,0.0,1,True,False,False,False,False
+569,Mauritius,2011,3,False,False,0.0,2,True,False,False,False,False
+570,Mauritius,2012,3,False,False,0.0,1,True,False,False,False,False
+571,Mauritius,2013,3,False,False,0.0,1,True,False,False,False,False
+572,Mauritius,2014,3,False,False,0.0,1,True,False,False,False,False
+573,Morocco,1940,2,False,False,0.0,3,False,False,True,False,False
+574,Morocco,1941,2,False,False,0.0,3,False,False,True,False,False
+575,Morocco,1942,1,False,False,0.0,3,False,False,True,False,False
+576,Morocco,1943,1,False,False,0.0,3,False,True,True,False,False
+577,Morocco,1944,1,False,False,0.0,3,False,True,True,False,False
+578,Morocco,1945,1,False,False,0.0,3,False,False,False,False,False
+579,Morocco,1946,2,False,False,0.0,3,False,False,True,False,False
+580,Morocco,1947,2,False,False,0.0,3,False,True,True,False,False
+581,Morocco,1948,2,False,False,0.0,3,False,False,True,False,False
+582,Morocco,1949,2,False,False,0.0,3,False,True,True,False,False
+583,Morocco,1950,2,False,False,0.0,0,False,True,False,False,False
+584,Morocco,1951,2,False,False,0.0,3,False,False,True,False,False
+585,Morocco,1952,2,False,False,0.0,1,False,False,False,False,False
+586,Morocco,1953,2,False,False,0.0,0,False,False,False,False,False
+587,Morocco,1954,2,False,False,0.0,1,False,False,False,False,False
+588,Morocco,1955,2,False,False,0.0,2,False,False,False,False,False
+589,Morocco,1956,2,False,False,0.0,1,True,False,False,False,False
+590,Morocco,1957,2,False,False,0.0,1,True,False,False,False,False
+591,Morocco,1958,2,False,False,0.0,1,True,True,False,False,False
+592,Morocco,1959,2,False,False,0.0,0,True,True,False,False,False
+593,Morocco,1960,2,False,False,0.0,1,True,False,False,False,False
+594,Morocco,1961,2,False,False,0.0,1,True,False,False,False,False
+595,Morocco,1962,2,False,False,0.0,1,True,False,False,False,False
+596,Morocco,1963,2,False,False,0.0,1,True,False,False,False,False
+597,Morocco,1964,2,False,False,0.0,1,True,False,False,False,False
+598,Morocco,1965,2,False,False,0.0,1,True,False,False,False,False
+599,Morocco,1966,2,False,False,0.0,0,True,False,False,False,False
+600,Morocco,1967,2,False,False,0.0,0,True,False,False,False,False
+601,Morocco,1968,2,False,False,0.0,0,True,False,False,False,False
+602,Morocco,1969,2,False,False,0.0,0,True,False,False,False,False
+603,Morocco,1970,2,False,False,0.0,0,True,False,False,False,False
+604,Morocco,1971,2,False,False,0.0,1,True,False,False,False,False
+605,Morocco,1972,2,False,False,0.0,1,True,False,False,False,False
+606,Morocco,1973,2,False,False,0.0,2,True,False,False,False,False
+607,Morocco,1974,2,False,False,0.0,3,True,False,False,False,False
+608,Morocco,1975,2,False,False,0.0,2,True,False,False,False,False
+609,Morocco,1976,2,False,False,0.0,2,True,False,False,False,False
+610,Morocco,1977,2,False,False,0.0,2,True,False,False,False,False
+611,Morocco,1978,2,False,False,0.0,2,True,False,False,False,False
+612,Morocco,1979,2,False,False,0.0,2,True,False,False,False,False
+613,Morocco,1980,2,False,False,0.0,2,True,False,False,False,False
+614,Morocco,1981,2,False,False,0.0,3,True,False,False,False,False
+615,Morocco,1982,2,False,False,0.0,2,True,False,False,False,False
+616,Morocco,1983,2,False,True,0.13,2,True,False,False,True,True
+617,Morocco,1984,3,False,False,0.0,3,True,False,False,True,True
+618,Morocco,1985,3,False,False,0.0,2,True,True,False,False,False
+619,Morocco,1986,3,False,True,0.13,2,True,False,False,False,False
+620,Morocco,1987,2,False,True,0.13,1,True,False,False,False,False
+621,Morocco,1988,2,False,True,0.13,1,True,False,False,False,False
+622,Morocco,1989,2,False,True,0.13,1,True,False,False,False,False
+623,Morocco,1990,2,False,True,0.13,2,True,False,False,False,False
+624,Morocco,1991,2,False,False,0.0,2,True,False,False,False,False
+625,Morocco,1992,3,False,False,0.0,1,True,False,False,False,False
+626,Morocco,1993,3,False,False,0.0,1,True,False,False,False,False
+627,Morocco,1994,3,False,False,0.0,1,True,False,False,False,False
+628,Morocco,1995,3,False,False,0.0,2,True,False,False,False,False
+629,Morocco,1996,3,False,False,0.0,1,True,False,False,False,False
+630,Morocco,1997,3,False,False,0.0,0,True,False,False,False,False
+631,Morocco,1998,3,False,False,0.0,1,True,False,False,False,False
+632,Morocco,1999,3,False,False,0.0,0,True,False,False,False,False
+633,Morocco,2000,3,False,False,0.0,0,True,False,False,False,False
+634,Morocco,2001,3,False,False,0.0,0,True,False,False,False,False
+635,Morocco,2002,3,False,False,0.0,1,True,False,False,False,False
+636,Morocco,2003,3,False,False,0.0,0,True,False,False,False,False
+637,Morocco,2004,2,False,False,0.0,0,True,False,False,False,False
+638,Morocco,2005,3,False,False,0.0,0,True,False,False,False,False
+639,Morocco,2006,2,False,False,0.0,1,True,False,False,False,False
+640,Morocco,2007,2,False,False,0.0,0,True,False,False,False,False
+641,Morocco,2008,2,False,False,0.0,1,True,False,False,False,False
+642,Morocco,2009,2,False,False,0.0,0,True,False,False,False,False
+643,Morocco,2010,2,False,False,0.0,0,True,False,False,False,False
+644,Morocco,2011,3,False,False,0.0,0,True,False,False,False,False
+645,Morocco,2012,2,False,False,0.0,0,True,False,False,False,False
+646,Morocco,2013,2,False,False,0.0,0,True,False,False,False,False
+647,Morocco,2014,3,False,False,0.0,0,True,False,False,False,False
+648,Nigeria,1954,0,False,False,0.0,1,False,False,False,False,False
+649,Nigeria,1955,0,False,False,0.0,2,False,False,False,False,False
+650,Nigeria,1956,0,False,False,0.0,2,False,False,False,False,False
+651,Nigeria,1957,0,False,False,0.0,0,False,False,False,False,False
+652,Nigeria,1958,0,False,False,0.0,0,False,False,False,False,False
+653,Nigeria,1959,0,False,False,0.0,1,False,False,False,False,False
+654,Nigeria,1960,0,False,False,0.0,1,True,False,False,False,False
+655,Nigeria,1961,0,False,False,0.0,2,True,False,False,False,False
+656,Nigeria,1962,0,False,False,0.0,1,True,False,False,False,False
+657,Nigeria,1963,0,False,False,0.0,0,True,False,False,False,False
+658,Nigeria,1964,0,False,False,0.0,0,True,False,False,False,False
+659,Nigeria,1965,0,False,False,0.0,1,True,False,False,False,False
+660,Nigeria,1966,0,False,False,0.0,2,True,False,False,False,False
+661,Nigeria,1967,0,False,False,0.0,0,True,False,False,False,False
+662,Nigeria,1968,0,False,False,0.0,1,True,False,False,False,False
+663,Nigeria,1969,0,False,False,0.0,2,True,False,False,False,False
+664,Nigeria,1970,0,False,False,0.0,3,True,False,False,False,False
+665,Nigeria,1971,0,False,False,0.0,3,True,False,False,False,False
+666,Nigeria,1972,0,False,False,0.0,0,True,False,False,False,False
+667,Nigeria,1973,1,False,False,0.0,3,True,True,False,False,False
+668,Nigeria,1974,1,False,False,0.0,2,True,False,False,False,False
+669,Nigeria,1975,1,False,False,0.0,3,True,False,True,False,False
+670,Nigeria,1976,1,False,False,0.0,3,True,False,False,False,False
+671,Nigeria,1977,1,False,False,0.0,3,True,False,True,False,False
+672,Nigeria,1978,1,False,False,0.0,3,True,False,False,False,False
+673,Nigeria,1979,1,False,False,0.0,2,True,False,False,False,False
+674,Nigeria,1980,1,False,False,0.0,2,True,False,False,False,False
+675,Nigeria,1981,1,False,False,0.0,3,True,True,False,False,False
+676,Nigeria,1982,1,False,False,0.0,2,True,False,True,False,False
+677,Nigeria,1983,1,False,False,0.0,3,True,False,False,False,False
+678,Nigeria,1984,1,False,False,0.0,3,True,False,True,False,False
+679,Nigeria,1985,2,False,False,0.0,1,True,True,True,False,False
+680,Nigeria,1986,2,False,False,0.0,2,True,True,False,False,False
+681,Nigeria,1987,2,False,True,0.0,3,True,True,False,False,False
+682,Nigeria,1988,2,False,True,0.0,3,True,True,False,False,False
+683,Nigeria,1989,2,False,True,0.0,3,True,True,True,False,False
+684,Nigeria,1990,3,False,True,0.0,2,True,True,True,False,False
+685,Nigeria,1992,3,False,True,0.0,3,True,True,False,True,True
+686,Nigeria,1993,3,False,True,0.0,3,True,False,True,True,True
+687,Nigeria,1994,3,False,True,0.0,3,True,False,True,True,True
+688,Nigeria,1995,3,False,False,0.0,3,True,False,True,True,True
+689,Nigeria,1996,3,False,False,0.0,3,True,False,True,False,False
+690,Nigeria,1997,3,False,False,0.0,2,True,False,True,True,False
+691,Nigeria,1998,3,False,False,0.0,2,True,False,False,False,False
+692,Nigeria,1999,3,False,False,0.0,2,True,True,False,False,False
+693,Nigeria,2000,3,False,False,0.0,2,True,False,False,False,False
+694,Nigeria,2001,3,False,False,0.0,3,True,False,False,False,False
+695,Nigeria,2002,3,False,False,0.0,3,True,False,False,False,False
+696,Nigeria,2003,3,False,False,0.0,3,True,False,False,False,False
+697,Nigeria,2004,3,False,True,0.0,3,True,False,False,False,False
+698,Nigeria,2005,3,False,True,0.0,3,True,False,False,False,False
+699,Nigeria,2006,3,False,False,0.0,2,True,False,False,False,False
+700,Nigeria,2007,3,False,False,0.0,1,True,False,False,False,False
+701,Nigeria,2008,3,False,False,0.0,2,True,False,False,False,False
+702,Nigeria,2009,3,False,False,0.0,3,True,False,False,True,True
+703,Nigeria,2010,3,False,False,0.0,3,True,False,False,True,True
+704,Nigeria,2011,3,False,False,0.0,2,True,False,False,True,True
+705,Nigeria,2012,3,False,False,0.0,3,True,False,False,True,True
+706,Nigeria,2013,3,False,False,0.0,2,True,False,False,True,True
+707,Nigeria,2014,3,False,False,0.0,2,True,False,False,True,True
+708,South Africa,1900,1,False,False,0.0,1,False,False,False,False,False
+709,South Africa,1901,1,False,False,0.0,2,False,False,False,False,False
+710,South Africa,1902,1,False,False,0.0,1,False,False,False,False,False
+711,South Africa,1903,1,False,False,0.0,0,False,False,False,False,False
+712,South Africa,1904,1,False,False,0.0,0,False,False,False,False,False
+713,South Africa,1905,1,False,False,0.0,0,False,False,False,False,False
+714,South Africa,1906,1,False,False,0.0,0,False,False,False,False,False
+715,South Africa,1907,1,False,False,0.0,0,False,False,False,False,False
+716,South Africa,1908,1,False,False,0.0,0,False,False,False,False,False
+717,South Africa,1909,1,False,False,0.0,1,False,False,False,False,False
+718,South Africa,1910,1,False,False,0.0,3,True,False,False,False,False
+719,South Africa,1911,1,False,False,0.0,1,True,False,False,False,False
+720,South Africa,1912,1,False,False,0.0,1,True,False,False,False,False
+721,South Africa,1913,1,False,False,0.0,0,True,False,False,False,False
+722,South Africa,1914,0,False,False,0.0,0,True,False,False,False,False
+723,South Africa,1915,1,False,False,0.0,1,True,False,False,False,False
+724,South Africa,1916,1,False,False,0.0,2,True,False,False,False,False
+725,South Africa,1917,1,False,False,0.0,2,True,False,False,False,False
+726,South Africa,1918,1,False,False,0.0,2,True,False,False,False,False
+727,South Africa,1919,1,False,False,0.0,0,True,False,False,False,False
+728,South Africa,1920,1,False,False,0.0,3,True,False,True,False,False
+729,South Africa,1921,1,False,False,0.0,0,True,False,False,False,False
+730,South Africa,1922,1,False,False,0.0,0,True,False,False,False,False
+731,South Africa,1923,1,False,False,0.0,0,True,False,False,False,False
+732,South Africa,1924,1,False,False,0.0,0,True,False,False,False,False
+733,South Africa,1925,1,False,False,0.0,0,True,False,False,False,False
+734,South Africa,1926,1,False,False,0.0,0,True,False,False,False,False
+735,South Africa,1927,1,False,False,0.0,1,True,False,False,False,False
+736,South Africa,1928,1,False,False,0.0,0,True,False,False,False,False
+737,South Africa,1929,1,False,False,0.0,0,True,False,False,False,False
+738,South Africa,1930,1,False,False,0.0,0,True,False,False,False,False
+739,South Africa,1931,1,False,False,0.0,0,True,False,False,False,False
+740,South Africa,1932,1,False,False,0.0,0,True,False,False,False,False
+741,South Africa,1933,1,False,False,0.0,1,True,True,False,False,False
+742,South Africa,1934,1,False,False,0.0,0,True,False,False,False,False
+743,South Africa,1935,1,False,False,0.0,0,True,False,False,False,False
+744,South Africa,1936,1,False,False,0.0,0,True,False,False,False,False
+745,South Africa,1937,1,False,False,0.0,1,True,False,False,False,False
+746,South Africa,1938,1,False,False,0.0,0,True,False,False,False,False
+747,South Africa,1939,1,False,False,0.0,0,True,False,False,False,False
+748,South Africa,1940,1,False,False,0.0,1,True,True,False,False,False
+749,South Africa,1941,1,False,False,0.0,2,True,False,False,False,False
+750,South Africa,1942,1,False,False,0.0,2,True,False,False,False,False
+751,South Africa,1943,1,False,False,0.0,1,True,False,False,False,False
+752,South Africa,1944,1,False,False,0.0,1,True,False,False,False,False
+753,South Africa,1945,1,False,False,0.0,0,True,False,False,False,False
+754,South Africa,1946,1,False,False,0.0,2,True,False,False,False,False
+755,South Africa,1947,1,False,False,0.0,1,True,False,False,False,False
+756,South Africa,1948,1,False,False,0.0,2,True,False,False,False,False
+757,South Africa,1949,1,False,False,0.0,1,True,False,False,False,False
+758,South Africa,1950,1,False,False,0.0,2,True,True,False,False,False
+759,South Africa,1951,1,False,False,0.0,2,True,False,False,False,False
+760,South Africa,1952,1,False,False,0.0,2,True,False,False,False,False
+761,South Africa,1953,1,False,False,0.0,0,True,False,False,False,False
+762,South Africa,1954,1,False,False,0.0,1,True,False,False,False,False
+763,South Africa,1955,1,False,False,0.0,0,True,False,False,False,False
+764,South Africa,1956,1,False,False,0.0,0,True,False,False,False,False
+765,South Africa,1957,1,False,False,0.0,1,True,False,False,False,False
+766,South Africa,1958,1,False,False,0.0,1,True,False,False,False,False
+767,South Africa,1959,1,False,False,0.0,0,True,False,False,False,False
+768,South Africa,1960,1,False,False,0.0,0,True,False,False,False,False
+769,South Africa,1961,1,False,False,0.0,0,True,False,False,False,False
+770,South Africa,1962,1,False,False,0.0,0,True,False,False,False,False
+771,South Africa,1963,1,False,False,0.0,0,True,False,False,False,False
+772,South Africa,1964,1,False,False,0.0,1,True,False,False,False,False
+773,South Africa,1965,1,False,False,0.0,1,True,False,False,False,False
+774,South Africa,1966,1,False,False,0.0,1,True,False,False,False,False
+775,South Africa,1967,1,False,False,0.0,1,True,2,False,False,False
+776,South Africa,1968,1,False,False,0.0,1,True,False,False,False,False
+777,South Africa,1969,1,False,False,0.0,1,True,False,False,False,False
+778,South Africa,1970,1,False,False,0.0,1,True,False,False,False,False
+779,South Africa,1971,1,False,False,0.0,2,True,False,False,False,False
+780,South Africa,1972,1,False,False,0.0,2,True,False,False,False,False
+781,South Africa,1973,1,False,False,0.0,2,True,False,False,False,False
+782,South Africa,1974,1,False,False,0.0,3,True,False,False,False,False
+783,South Africa,1975,1,False,False,0.0,2,True,False,False,False,False
+784,South Africa,1976,1,False,False,0.0,2,True,False,False,False,False
+785,South Africa,1977,1,False,False,0.0,2,True,False,False,True,False
+786,South Africa,1978,2,False,False,0.0,3,True,False,False,True,False
+787,South Africa,1979,1,False,False,0.0,3,True,False,False,False,False
+788,South Africa,1980,1,False,False,0.0,3,True,False,False,False,False
+789,South Africa,1981,2,False,False,0.0,3,True,True,False,False,False
+790,South Africa,1982,2,False,False,0.0,3,True,False,False,False,False
+791,South Africa,1983,2,False,False,0.0,3,True,False,False,False,False
+792,South Africa,1984,2,False,False,0.0,2,True,True,False,False,False
+793,South Africa,1985,2,False,True,0.36,3,True,True,False,False,False
+794,South Africa,1986,2,False,True,0.36,3,True,False,False,False,False
+795,South Africa,1987,2,False,True,0.36,3,True,False,False,False,False
+796,South Africa,1988,2,False,False,0.0,3,True,True,False,False,False
+797,South Africa,1989,2,False,True,0.36,3,True,False,False,True,False
+798,South Africa,1990,2,False,False,0.0,3,True,False,False,False,False
+799,South Africa,1991,2,False,False,0.0,3,True,False,False,False,False
+800,South Africa,1992,2,False,False,0.0,3,True,False,False,False,False
+801,South Africa,1993,2,False,True,0.36,2,True,False,False,False,False
+802,South Africa,1994,2,False,False,0.0,2,True,False,False,False,False
+803,South Africa,1995,2,False,False,0.0,2,True,False,False,False,False
+804,South Africa,1996,2,False,False,0.0,2,True,True,False,False,False
+805,South Africa,1997,2,False,False,0.0,2,True,False,False,False,False
+806,South Africa,1998,2,False,False,0.0,2,True,True,False,False,False
+807,South Africa,1999,2,False,False,0.0,1,True,False,False,False,False
+808,South Africa,2000,2,False,False,0.0,1,True,True,False,False,False
+809,South Africa,2001,3,False,False,0.0,1,True,True,False,False,False
+810,South Africa,2002,3,False,False,0.0,2,True,False,False,False,False
+811,South Africa,2003,2,False,False,0.0,2,True,False,False,False,False
+812,South Africa,2004,2,False,False,0.0,0,True,False,False,False,False
+813,South Africa,2005,2,False,False,0.0,1,True,False,False,False,False
+814,South Africa,2006,2,False,False,0.0,1,True,False,False,False,False
+815,South Africa,2007,2,False,False,0.0,2,True,False,False,False,False
+816,South Africa,2008,3,False,False,0.0,2,True,True,False,False,False
+817,South Africa,2009,2,False,False,0.0,2,True,False,False,False,False
+818,South Africa,2010,2,False,False,0.0,1,True,False,False,False,False
+819,South Africa,2011,2,False,False,0.0,1,True,True,False,False,False
+820,South Africa,2012,3,False,False,0.0,1,True,False,False,False,False
+821,South Africa,2013,3,False,False,0.0,1,True,True,False,False,False
+822,Tunisia,1940,3,False,False,0.0,3,False,False,True,False,False
+823,Tunisia,1941,3,False,False,0.0,3,False,False,True,False,False
+824,Tunisia,1942,3,False,False,0.0,3,False,False,True,False,False
+825,Tunisia,1943,3,False,False,0.0,3,False,False,True,False,False
+826,Tunisia,1944,3,False,False,0.0,3,False,True,True,False,False
+827,Tunisia,1945,3,False,False,0.0,3,False,False,False,False,False
+828,Tunisia,1946,3,False,False,0.0,3,False,True,True,False,False
+829,Tunisia,1947,3,False,False,0.0,3,False,False,True,False,False
+830,Tunisia,1948,3,False,False,0.0,3,False,False,True,False,False
+831,Tunisia,1949,3,False,False,0.0,1,False,True,False,False,False
+832,Tunisia,1950,3,False,False,0.0,1,False,True,False,False,False
+833,Tunisia,1951,3,False,False,0.0,3,False,False,False,False,False
+834,Tunisia,1952,3,False,False,0.0,2,False,False,False,False,False
+835,Tunisia,1953,3,False,False,0.0,0,False,False,False,False,False
+836,Tunisia,1954,3,False,False,0.0,1,False,False,False,False,False
+837,Tunisia,1955,3,False,False,0.0,0,False,False,False,False,False
+838,Tunisia,1956,3,False,True,0.06,1,True,False,False,False,False
+839,Tunisia,1957,3,False,False,0.0,1,True,False,False,False,False
+840,Tunisia,1958,1,False,True,0.06,1,True,2,False,False,False
+841,Tunisia,1959,1,False,False,0.0,0,True,False,False,False,False
+842,Tunisia,1960,1,False,False,0.0,0,True,False,False,False,False
+843,Tunisia,1961,1,False,False,0.0,0,True,False,False,False,False
+844,Tunisia,1962,1,False,False,0.0,2,True,False,False,False,False
+845,Tunisia,1963,1,False,True,0.06,0,True,False,False,False,False
+846,Tunisia,1964,1,False,False,0.0,2,True,False,False,False,False
+847,Tunisia,1965,1,False,False,0.0,1,True,True,False,False,False
+848,Tunisia,1966,1,False,False,0.0,1,True,False,False,False,False
+849,Tunisia,1967,1,False,False,0.0,1,True,False,False,False,False
+850,Tunisia,1968,1,False,False,0.0,1,True,False,False,False,False
+851,Tunisia,1969,1,False,False,0.0,1,True,False,False,False,False
+852,Tunisia,1970,1,False,False,0.0,0,True,False,False,False,False
+853,Tunisia,1971,1,False,False,0.0,1,True,False,False,False,False
+854,Tunisia,1972,1,False,False,0.0,1,True,False,False,False,False
+855,Tunisia,1973,1,False,False,0.0,2,True,False,False,False,False
+856,Tunisia,1974,1,False,False,0.0,1,True,True,False,False,False
+857,Tunisia,1975,1,False,False,0.0,2,True,False,False,False,False
+858,Tunisia,1976,1,False,False,0.0,1,True,False,False,False,False
+859,Tunisia,1977,1,False,False,0.0,2,True,False,False,False,False
+860,Tunisia,1978,1,False,False,0.0,1,True,True,False,False,False
+861,Tunisia,1979,1,False,True,0.06,2,True,False,False,False,False
+862,Tunisia,1980,1,False,True,0.06,2,True,False,False,False,False
+863,Tunisia,1981,1,False,True,0.06,2,True,False,False,False,False
+864,Tunisia,1982,1,False,True,0.06,3,True,False,False,False,False
+865,Tunisia,1983,1,False,False,0.0,2,True,False,False,False,False
+866,Tunisia,1984,1,False,False,0.0,2,True,False,False,False,False
+867,Tunisia,1985,1,False,False,0.0,2,True,False,False,False,False
+868,Tunisia,1986,1,False,False,0.0,2,True,True,False,False,False
+869,Tunisia,1987,1,False,False,0.0,2,True,False,False,False,False
+870,Tunisia,1988,2,False,False,0.0,2,True,False,False,False,False
+871,Tunisia,1989,2,False,False,0.0,2,True,False,False,False,False
+872,Tunisia,1990,1,False,False,0.0,2,True,False,False,False,False
+873,Tunisia,1991,1,False,False,0.0,2,True,False,False,True,True
+874,Tunisia,1992,2,False,False,0.0,1,True,False,False,True,True
+875,Tunisia,1993,2,False,False,0.0,1,True,False,False,True,True
+876,Tunisia,1994,2,False,False,0.0,1,True,False,False,True,True
+877,Tunisia,1995,2,False,False,0.0,2,True,False,False,True,True
+878,Tunisia,1996,2,False,False,0.0,1,True,False,False,False,False
+879,Tunisia,1997,2,False,False,0.0,1,True,False,False,False,False
+880,Tunisia,1998,2,False,False,0.0,1,True,False,False,False,False
+881,Tunisia,1999,2,False,False,0.0,1,True,False,False,False,False
+882,Tunisia,2000,2,False,False,0.0,1,True,False,False,False,False
+883,Tunisia,2001,2,False,False,0.0,0,True,False,False,False,False
+884,Tunisia,2002,2,False,False,0.0,1,True,False,False,False,False
+885,Tunisia,2003,2,False,False,0.0,1,True,False,False,False,False
+886,Tunisia,2004,2,False,False,0.0,1,True,False,False,False,False
+887,Tunisia,2005,2,False,False,0.0,0,True,False,False,False,False
+888,Tunisia,2006,2,False,False,0.0,1,True,False,False,False,False
+889,Tunisia,2007,2,False,False,0.0,1,True,False,False,False,False
+890,Tunisia,2008,2,False,False,0.0,1,True,False,False,False,False
+891,Tunisia,2009,2,False,False,0.0,1,True,False,False,False,False
+892,Tunisia,2010,2,False,False,0.0,1,True,False,False,False,False
+893,Tunisia,2011,2,False,False,0.0,1,True,False,False,False,False
+894,Tunisia,2012,2,False,False,0.0,1,True,False,False,False,False
+895,Tunisia,2013,2,False,False,0.0,2,True,False,False,False,False
+896,Tunisia,2014,2,False,False,0.0,1,True,False,False,False,False
+897,Zambia,1943,0,False,False,0.0,1,False,False,False,False,False
+898,Zambia,1944,0,False,False,0.0,1,False,False,False,False,False
+899,Zambia,1945,0,False,False,0.0,1,False,False,False,False,False
+900,Zambia,1946,0,False,False,0.0,2,False,False,False,False,False
+901,Zambia,1947,0,False,False,0.0,1,False,False,False,False,False
+902,Zambia,1948,0,False,False,0.0,1,False,False,False,False,False
+903,Zambia,1949,0,False,False,0.0,1,False,False,False,False,False
+904,Zambia,1950,0,False,False,0.0,1,False,True,False,False,False
+905,Zambia,1951,0,False,False,0.0,2,False,False,False,False,False
+906,Zambia,1952,0,False,False,0.0,1,False,False,False,False,False
+907,Zambia,1953,0,False,False,0.0,1,False,False,False,False,False
+908,Zambia,1954,0,False,False,0.0,1,False,False,False,False,False
+909,Zambia,1955,0,False,False,0.0,1,False,False,False,False,False
+910,Zambia,1956,0,False,False,0.0,1,False,False,False,False,False
+911,Zambia,1957,0,False,False,0.0,1,False,False,False,False,False
+912,Zambia,1958,0,False,False,0.0,0,False,False,False,False,False
+913,Zambia,1959,0,False,False,0.0,0,False,False,False,False,False
+914,Zambia,1960,0,False,False,0.0,1,False,False,False,False,False
+915,Zambia,1961,0,False,False,0.0,0,False,False,False,False,False
+916,Zambia,1962,0,False,False,0.0,0,False,False,False,False,False
+917,Zambia,1963,0,False,False,0.0,0,False,False,False,False,False
+918,Zambia,1964,0,False,False,0.0,1,True,False,False,False,False
+919,Zambia,1965,0,False,False,0.0,2,True,False,False,False,False
+920,Zambia,1966,0,False,False,0.0,2,True,False,False,False,False
+921,Zambia,1967,0,False,False,0.0,1,True,False,False,False,False
+922,Zambia,1968,0,False,False,0.0,2,True,False,False,False,False
+923,Zambia,1969,0,False,False,0.0,1,True,False,False,False,False
+924,Zambia,1970,0,False,False,0.0,1,True,False,False,False,False
+925,Zambia,1971,0,False,False,0.0,2,True,False,False,False,False
+926,Zambia,1972,0,False,False,0.0,1,True,False,False,False,False
+927,Zambia,1973,0,False,False,0.0,2,True,False,False,False,False
+928,Zambia,1974,0,False,False,0.0,2,True,False,False,False,False
+929,Zambia,1975,0,False,False,0.0,2,True,False,False,False,False
+930,Zambia,1976,0,False,False,0.0,3,True,False,False,False,False
+931,Zambia,1977,0,False,False,0.0,3,True,True,False,False,False
+932,Zambia,1978,0,False,False,0.0,3,True,False,False,False,False
+933,Zambia,1979,0,False,False,0.0,2,True,False,False,False,False
+934,Zambia,1980,0,False,False,0.0,3,True,False,False,False,False
+935,Zambia,1981,0,False,False,0.0,3,True,False,False,False,False
+936,Zambia,1982,0,False,False,0.0,3,True,False,False,False,False
+937,Zambia,1983,0,False,True,0.0,3,True,True,False,False,False
+938,Zambia,1984,0,False,True,0.0,3,True,True,True,False,False
+939,Zambia,1985,0,False,True,0.0,3,True,True,True,False,False
+940,Zambia,1986,0,False,True,0.0,3,True,True,True,False,False
+941,Zambia,1987,0,False,True,0.0,3,True,False,True,False,False
+942,Zambia,1988,0,False,True,0.0,3,True,True,True,False,False
+943,Zambia,1989,0,False,True,0.0,3,True,True,True,False,False
+944,Zambia,1990,0,False,True,0.0,3,True,True,True,False,False
+945,Zambia,1991,0,False,True,0.0,3,True,True,True,False,False
+946,Zambia,1992,1,False,True,0.0,3,True,True,True,False,False
+947,Zambia,1993,1,False,True,0.0,3,True,True,True,False,False
+948,Zambia,1994,1,False,True,0.0,3,True,True,True,False,False
+949,Zambia,1995,2,False,False,0.0,3,True,True,True,True,True
+950,Zambia,1996,2,False,False,0.0,3,True,True,True,True,True
+951,Zambia,1997,2,False,False,0.0,3,True,False,True,True,True
+952,Zambia,1998,2,False,False,0.0,3,True,True,True,True,True
+953,Zambia,1999,2,False,False,0.0,3,True,False,True,False,False
+954,Zambia,2000,2,False,False,0.0,3,True,True,True,False,False
+955,Zambia,2001,2,False,False,0.0,3,True,False,True,False,False
+956,Zambia,2002,2,False,False,0.0,3,True,False,True,False,False
+957,Zambia,2003,2,False,False,0.0,3,True,False,True,False,False
+958,Zambia,2004,2,False,False,0.0,3,True,False,False,False,False
+959,Zambia,2005,2,False,False,0.0,3,True,False,False,False,False
+960,Zambia,2006,2,False,False,0.0,2,True,False,False,False,False
+961,Zambia,2007,2,False,False,0.0,2,True,False,False,False,False
+962,Zambia,2008,2,False,False,0.0,3,True,True,False,False,False
+963,Zambia,2009,2,False,False,0.0,3,True,False,False,False,False
+964,Zambia,2010,2,False,False,0.0,2,True,False,False,False,False
+965,Zambia,2011,2,False,False,0.0,2,True,False,False,False,False
+966,Zambia,2012,2,False,False,0.0,2,True,False,False,False,False
+967,Zambia,2013,2,False,False,0.0,2,True,True,False,False,False
+968,Zambia,2014,2,False,False,0.0,2,True,False,False,False,False
+969,Zimbabwe,1921,0,False,False,0.0,0,False,False,False,False,False
+970,Zimbabwe,1922,0,False,False,0.0,0,False,False,False,False,False
+971,Zimbabwe,1923,0,False,False,0.0,0,False,False,False,False,False
+972,Zimbabwe,1927,0,False,False,0.0,0,False,False,False,False,False
+973,Zimbabwe,1928,0,False,False,0.0,0,False,False,False,False,False
+974,Zimbabwe,1929,0,False,False,0.0,0,False,False,False,False,False
+975,Zimbabwe,1930,0,False,False,0.0,0,False,False,False,False,False
+976,Zimbabwe,1931,0,False,False,0.0,0,False,False,False,False,False
+977,Zimbabwe,1932,0,False,False,0.0,0,False,False,False,False,False
+978,Zimbabwe,1933,0,False,False,0.0,0,False,False,False,False,False
+979,Zimbabwe,1934,0,False,False,0.0,0,False,False,False,False,False
+980,Zimbabwe,1935,0,False,False,0.0,0,False,False,False,False,False
+981,Zimbabwe,1936,0,False,False,0.0,0,False,False,False,False,False
+982,Zimbabwe,1937,0,False,False,0.0,2,False,False,False,False,False
+983,Zimbabwe,1938,0,False,False,0.0,0,False,False,False,False,False
+984,Zimbabwe,1939,0,False,False,0.0,0,False,False,False,False,False
+985,Zimbabwe,1940,0,False,False,0.0,1,False,False,False,False,False
+986,Zimbabwe,1941,0,False,False,0.0,1,False,False,False,False,False
+987,Zimbabwe,1942,0,False,False,0.0,1,False,False,False,False,False
+988,Zimbabwe,1943,0,False,False,0.0,2,False,False,False,False,False
+989,Zimbabwe,1944,0,False,False,0.0,1,False,False,False,False,False
+990,Zimbabwe,1945,0,False,False,0.0,1,False,False,False,False,False
+991,Zimbabwe,1946,0,False,False,0.0,1,False,False,False,False,False
+992,Zimbabwe,1947,0,False,False,0.0,1,False,False,False,False,False
+993,Zimbabwe,1948,0,False,False,0.0,2,False,False,False,False,False
+994,Zimbabwe,1949,0,False,False,0.0,1,False,False,False,False,False
+995,Zimbabwe,1950,0,False,False,0.0,2,False,False,False,False,False
+996,Zimbabwe,1951,0,False,False,0.0,2,False,False,False,False,False
+997,Zimbabwe,1952,0,False,False,0.0,2,False,False,False,False,False
+998,Zimbabwe,1953,0,False,False,0.0,1,False,False,False,False,False
+999,Zimbabwe,1954,0,False,False,0.0,0,False,False,False,False,False
+1000,Zimbabwe,1955,0,False,False,0.0,0,False,False,False,False,False
+1001,Zimbabwe,1956,0,False,False,0.0,1,False,False,False,False,False
+1002,Zimbabwe,1957,0,False,False,0.0,1,False,False,False,False,False
+1003,Zimbabwe,1958,0,False,False,0.0,1,False,False,False,False,False
+1004,Zimbabwe,1959,0,False,False,0.0,1,False,False,False,False,False
+1005,Zimbabwe,1960,0,False,False,0.0,1,False,False,False,False,False
+1006,Zimbabwe,1961,0,False,False,0.0,1,False,False,False,False,False
+1007,Zimbabwe,1962,0,False,False,0.0,0,False,False,False,False,False
+1008,Zimbabwe,1963,0,False,False,0.0,0,False,False,False,False,False
+1009,Zimbabwe,1964,0,False,False,0.0,1,False,False,False,False,False
+1010,Zimbabwe,1965,0,True,True,0.0,1,True,False,False,False,False
+1011,Zimbabwe,1966,0,True,True,0.0,1,True,False,False,False,False
+1012,Zimbabwe,1967,0,True,True,0.0,1,True,False,False,False,False
+1013,Zimbabwe,1968,0,True,True,0.0,0,True,False,False,False,False
+1014,Zimbabwe,1969,0,True,True,0.0,0,True,False,False,False,False
+1015,Zimbabwe,1970,0,True,True,0.0,1,True,False,False,False,False
+1016,Zimbabwe,1971,0,True,True,0.0,1,True,False,False,False,False
+1017,Zimbabwe,1972,0,True,True,0.0,1,True,False,False,False,False
+1018,Zimbabwe,1973,0,True,True,0.0,1,True,False,False,False,False
+1019,Zimbabwe,1974,0,True,True,0.0,2,True,False,False,False,False
+1020,Zimbabwe,1975,0,True,True,0.0,2,True,False,False,False,False
+1021,Zimbabwe,1976,0,True,True,0.0,2,True,False,False,False,False
+1022,Zimbabwe,1977,0,True,True,0.0,2,True,True,False,False,False
+1023,Zimbabwe,1978,0,True,True,0.0,2,True,False,False,False,False
+1024,Zimbabwe,1979,0,True,True,0.0,3,True,False,False,False,False
+1025,Zimbabwe,1980,0,True,True,0.0,2,True,False,False,False,False
+1026,Zimbabwe,1981,0,False,False,0.0,3,True,False,False,False,False
+1027,Zimbabwe,1982,0,False,False,0.0,2,True,True,False,False,False
+1028,Zimbabwe,1983,0,False,False,0.0,3,True,True,True,False,False
+1029,Zimbabwe,1984,0,False,False,0.0,3,True,True,True,False,False
+1030,Zimbabwe,1985,0,False,False,0.0,2,True,False,False,False,False
+1031,Zimbabwe,1986,0,False,False,0.0,3,True,False,False,False,False
+1032,Zimbabwe,1987,0,False,False,0.0,3,True,False,False,False,False
+1033,Zimbabwe,1988,0,False,False,0.0,2,True,True,False,False,False
+1034,Zimbabwe,1989,0,False,False,0.0,3,True,True,False,False,False
+1035,Zimbabwe,1990,0,False,False,0.0,3,True,True,False,False,False
+1036,Zimbabwe,1991,0,False,False,0.0,3,True,True,True,False,False
+1037,Zimbabwe,1992,0,False,False,0.0,3,True,False,True,False,False
+1038,Zimbabwe,1993,0,False,False,0.0,3,True,True,True,False,False
+1039,Zimbabwe,1994,0,False,False,0.0,3,True,True,True,False,False
+1040,Zimbabwe,1995,0,False,False,0.0,3,True,False,True,True,True
+1041,Zimbabwe,1996,0,False,False,0.0,3,True,True,False,True,True
+1042,Zimbabwe,1997,0,False,False,0.0,3,True,True,True,True,True
+1043,Zimbabwe,1998,0,False,False,0.0,3,True,True,True,True,True
+1044,Zimbabwe,1999,0,False,False,0.0,3,True,False,True,True,True
+1045,Zimbabwe,2000,0,True,True,0.0,3,True,True,True,True,True
+1046,Zimbabwe,2001,0,True,True,0.0,3,True,False,True,True,True
+1047,Zimbabwe,2002,0,True,True,0.0,3,True,False,True,True,True
+1048,Zimbabwe,2003,0,True,True,0.0,3,True,True,True,True,True
+1049,Zimbabwe,2004,0,True,True,0.0,3,True,True,True,True,True
+1050,Zimbabwe,2005,0,True,True,0.0,3,True,True,True,True,True
+1051,Zimbabwe,2006,0,True,True,0.0,3,True,True,True,True,True
+1052,Zimbabwe,2007,0,True,True,0.0,3,True,True,True,True,True
+1053,Zimbabwe,2008,0,True,True,0.0,3,True,True,True,True,True
+1054,Zimbabwe,2009,3,True,True,0.0,0,True,True,False,True,True
+1055,Zimbabwe,2010,3,True,True,0.0,1,True,False,False,False,False
+1056,Zimbabwe,2011,3,True,True,0.0,1,True,False,False,False,False
+1057,Zimbabwe,2012,3,True,True,0.0,1,True,False,False,False,False
+1058,Zimbabwe,2013,3,True,True,0.0,0,True,False,False,False,False
