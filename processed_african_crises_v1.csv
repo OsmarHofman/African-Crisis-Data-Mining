@@ -1,0 +1,1056 @@
+country,year,systemic_crisis,exch_usd,domestic_debt_default,sovereign_external_debt_default,gdp_weighted_default,inflation_annual_cpi,independence,currency_crisis,inflation_crisis,banking_crisis
+Algeria,1870,true,0.052264,false,false,0.0,3.4414556960000002,false,no_crisis,false,true
+Algeria,1871,false,0.052798000000000005,false,false,0.0,14.14913958,false,no_crisis,false,false
+Algeria,1872,false,0.052274,false,false,0.0,-3.718592965,false,no_crisis,false,false
+Algeria,1873,false,0.05168,false,false,0.0,11.20389701,false,no_crisis,false,false
+Algeria,1874,false,0.051308000000000006,false,false,0.0,-3.8485607010000003,false,no_crisis,false,false
+Algeria,1875,false,0.051546,false,false,0.0,-20.92417833,false,no_crisis,false,false
+Algeria,1876,false,0.051866999999999996,false,false,0.0,-1.769547325,false,no_crisis,false,false
+Algeria,1877,false,0.051866999999999996,false,false,0.0,29.11604525,false,no_crisis,true,false
+Algeria,1878,false,0.051948,false,false,0.0,-1.4925373130000001,false,no_crisis,false,false
+Algeria,1879,false,0.052029,false,false,0.0,-16.83135705,false,no_crisis,false,false
+Algeria,1880,false,0.05235599999999999,false,false,0.0,3.881188119,false,no_crisis,false,false
+Algeria,1881,false,0.052029,false,false,0.0,12.61913839,false,no_crisis,false,false
+Algeria,1882,false,0.050761,false,false,0.0,-12.35612729,false,no_crisis,false,false
+Algeria,1883,false,0.052002,false,false,0.0,-1.390498262,false,no_crisis,false,false
+Algeria,1884,false,0.052164999999999996,false,false,0.0,-15.94202899,false,no_crisis,false,false
+Algeria,1939,false,0.44903000000000004,false,false,0.0,9.756097561,false,no_crisis,false,false
+Algeria,1940,false,0.49188999999999994,false,false,0.0,22.22222222,false,no_crisis,true,false
+Algeria,1941,false,0.44937,false,false,0.0,16.36363636,false,no_crisis,false,false
+Algeria,1942,false,0.75,false,false,0.0,28.125,false,no_crisis,true,false
+Algeria,1943,false,0.5,false,false,0.0,46.34146341,false,crisis,true,false
+Algeria,1944,false,0.5,false,false,0.0,41.66666667,false,crisis,true,false
+Algeria,1945,false,1.1909999999999998,false,false,0.0,29.41176471,false,no_crisis,true,false
+Algeria,1946,false,1.1909999999999998,false,false,0.0,18.18181818,false,no_crisis,false,false
+Algeria,1947,false,1.193,false,false,0.0,69.23076923,false,no_crisis,true,false
+Algeria,1948,false,2.662,false,false,0.0,63.63636364,false,no_crisis,true,false
+Algeria,1949,false,3.49,false,false,0.0,23.61111111,false,no_crisis,true,false
+Algeria,1950,false,3.4989999999999997,false,false,0.0,0.0,false,no_crisis,false,false
+Algeria,1951,false,3.5,false,false,0.0,6.741573034,false,no_crisis,false,false
+Algeria,1952,false,3.5,false,false,0.0,6.315789474,false,no_crisis,false,false
+Algeria,1953,false,3.5,false,false,0.0,-0.99009901,false,no_crisis,false,false
+Algeria,1954,false,3.5,false,false,0.0,1.0,false,no_crisis,false,false
+Algeria,1955,false,3.5,false,false,0.0,0.0,false,no_crisis,false,false
+Algeria,1956,false,3.5,false,false,0.0,1.98019802,false,no_crisis,false,false
+Algeria,1957,false,4.199,false,false,0.0,2.9126213589999996,false,no_crisis,false,false
+Algeria,1958,false,4.906000000000001,false,false,0.0,12.26415094,false,no_crisis,false,false
+Algeria,1959,false,4.909,false,false,0.0,9.243697479,false,no_crisis,false,false
+Algeria,1960,false,4.93706,false,false,0.0,5.384615385,false,crisis,false,false
+Algeria,1961,false,4.93706,false,false,0.0,2.9197080289999997,false,no_crisis,false,false
+Algeria,1968,false,4.93706,false,false,0.0,6.599987838,true,no_crisis,false,false
+Algeria,1969,false,4.93706,false,false,0.0,2.626631862,true,no_crisis,false,false
+Algeria,1970,false,4.93706,false,false,0.0,3.656320975,true,no_crisis,false,false
+Algeria,1971,false,4.644,false,false,0.0,6.172816266,true,no_crisis,false,false
+Algeria,1972,false,4.556,false,false,0.0,4.734228715,true,no_crisis,false,false
+Algeria,1973,false,4.185,false,false,0.0,8.961134756,true,no_crisis,false,false
+Algeria,1974,false,3.997,false,false,0.0,8.87917187,true,no_crisis,false,false
+Algeria,1975,false,4.125,false,false,0.0,12.09893382,true,no_crisis,false,false
+Algeria,1976,false,4.359,false,false,0.0,17.17351914,true,no_crisis,false,false
+Algeria,1977,false,4.035,false,false,0.0,11.45037883,true,no_crisis,false,false
+Algeria,1978,false,3.8345,false,false,0.0,9.668492611,true,no_crisis,false,false
+Algeria,1979,false,3.7555,false,false,0.0,14.60957788,true,no_crisis,false,false
+Algeria,1980,false,3.9715,false,false,0.0,9.668,true,no_crisis,false,false
+Algeria,1981,false,4.378,false,false,0.0,14.61,true,no_crisis,false,false
+Algeria,1982,false,4.6355,false,false,0.0,6.593,true,no_crisis,false,false
+Algeria,1983,false,4.9165,false,false,0.0,7.835,true,no_crisis,false,false
+Algeria,1984,false,5.1227,false,false,0.0,6.31,true,no_crisis,false,false
+Algeria,1985,false,4.7728,false,false,0.0,10.432,true,no_crisis,false,false
+Algeria,1986,false,4.8235,false,false,0.0,14.007,true,no_crisis,false,false
+Algeria,1987,false,4.9363,false,false,0.0,5.857,true,no_crisis,false,false
+Algeria,1988,false,6.7308,false,false,0.0,5.938,true,crisis,false,false
+Algeria,1989,false,8.0324,false,false,0.0,9.172,true,crisis,false,false
+Algeria,1990,true,12.1908,false,false,0.0,9.272,true,crisis,false,true
+Algeria,1991,true,21.3919,false,true,0.23,25.9,true,crisis,true,true
+Algeria,1992,true,22.7814,false,true,0.23,31.7,true,no_crisis,true,true
+Algeria,1993,false,24.123,false,true,0.23,20.5,true,no_crisis,true,false
+Algeria,1994,false,42.8925,false,true,0.23,29.0,true,crisis,true,false
+Algeria,1995,false,52.175,false,true,0.23,29.8,true,crisis,true,false
+Algeria,1996,false,56.1859,false,true,0.23,18.7,true,no_crisis,false,false
+Algeria,1997,false,58.4139,false,false,0.0,5.7,true,no_crisis,false,false
+Algeria,1998,false,60.3531,false,false,0.0,4.95,true,no_crisis,false,false
+Algeria,1999,false,69.3143,false,false,0.0,2.6,true,no_crisis,false,false
+Algeria,2000,false,75.3428,false,false,0.0,0.3,true,no_crisis,false,false
+Algeria,2001,false,77.8196,false,false,0.0,4.2,true,no_crisis,false,false
+Algeria,2002,false,79.7234,false,false,0.0,1.43,true,no_crisis,false,false
+Algeria,2003,false,72.6128,false,false,0.0,4.2589999999999995,true,no_crisis,false,false
+Algeria,2004,false,72.6137,false,false,0.0,3.972,true,no_crisis,false,false
+Algeria,2005,false,73.3799,false,false,0.0,1.382,true,no_crisis,false,false
+Algeria,2006,false,71.1582,false,false,0.0,2.315,true,no_crisis,false,false
+Algeria,2007,false,66.8299,false,false,0.0,3.674,true,no_crisis,false,false
+Algeria,2008,false,71.1826,false,false,0.0,4.855,true,no_crisis,false,false
+Algeria,2009,false,72.7309,false,false,0.0,5.742999999999999,true,no_crisis,false,false
+Algeria,2010,false,74.9437,false,false,0.0,3.9130000000000003,true,no_crisis,false,false
+Algeria,2011,false,76.0563,false,false,0.0,4.522,true,no_crisis,false,false
+Algeria,2012,false,78.1025,false,false,0.0,8.916,true,no_crisis,false,false
+Algeria,2013,false,78.14870129999998,false,false,0.0,3.255,true,no_crisis,false,false
+Algeria,2014,false,87.9706983,false,false,0.0,2.917,true,no_crisis,false,false
+Angola,1921,false,1.25e-08,false,false,0.0,29.62962963,false,no_crisis,true,false
+Angola,1922,false,2.21e-08,false,false,0.0,45.71428571,false,no_crisis,true,false
+Angola,1923,false,2.81e-08,false,false,0.0,68.62745098,false,no_crisis,true,false
+Angola,1924,false,2.08e-08,false,false,0.0,126.74418600000001,false,no_crisis,true,false
+Angola,1925,false,1.95e-08,false,false,0.0,-27.17948718,false,no_crisis,false,false
+Angola,1926,false,1.95e-08,false,false,0.0,-7.042253521,false,no_crisis,false,false
+Angola,1927,false,2.02e-08,false,false,0.0,-17.42424242,false,no_crisis,false,false
+Angola,1928,false,2.27e-08,false,false,0.0,-9.174311927,false,no_crisis,false,false
+Angola,1929,false,2.2200000000000004e-08,false,false,0.0,-5.050505051,false,no_crisis,false,false
+Angola,1930,false,2.23e-08,false,false,0.0,-5.319148936,false,no_crisis,false,false
+Angola,1931,false,3.1e-08,false,false,0.0,0.0,false,no_crisis,false,false
+Angola,1932,false,3.31e-08,false,false,0.0,-2.247191011,false,no_crisis,false,false
+Angola,1933,false,2.13e-08,false,false,0.0,2.298850575,false,no_crisis,false,false
+Angola,1934,false,2.2200000000000004e-08,false,false,0.0,3.370786517,false,no_crisis,false,false
+Angola,1935,false,2.23e-08,false,false,0.0,5.434782609,false,no_crisis,false,false
+Angola,1936,false,2.25e-08,false,false,0.0,-1.030927835,false,no_crisis,false,false
+Angola,1937,false,2.21e-08,false,false,0.0,2.083333333,false,no_crisis,false,false
+Angola,1938,false,2.36e-08,false,false,0.0,2.040816327,false,no_crisis,false,false
+Angola,1939,false,2.77e-08,false,false,0.0,1.0,false,no_crisis,false,false
+Angola,1940,false,2.5099999999999996e-08,false,false,0.0,13.86138614,false,no_crisis,false,false
+Angola,1941,false,2.5e-08,false,false,0.0,16.52173913,false,no_crisis,false,false
+Angola,1942,false,2.5e-08,false,false,0.0,17.91044776,false,no_crisis,false,false
+Angola,1943,false,2.5e-08,false,false,0.0,13.92405063,false,no_crisis,false,false
+Angola,1944,false,2.5e-08,false,false,0.0,7.777777778,false,no_crisis,false,false
+Angola,1945,false,2.5e-08,false,false,0.0,5.154639175,false,no_crisis,false,false
+Angola,1946,false,2.63e-08,false,false,0.0,4.901960784,false,no_crisis,false,false
+Angola,1947,false,2.5e-08,false,false,0.0,13.55140187,false,no_crisis,false,false
+Angola,1948,false,2.58e-08,false,false,0.0,-16.87242798,false,no_crisis,false,false
+Angola,1949,false,2.8599999999999998e-08,false,false,0.0,-0.99009901,false,no_crisis,false,false
+Angola,1950,false,2.9100000000000002e-08,false,false,0.0,4.0,false,no_crisis,false,false
+Angola,1951,false,2.9100000000000002e-08,false,false,0.0,-7.692307692000001,false,no_crisis,false,false
+Angola,1952,false,2.8999999999999998e-08,false,false,0.0,3.125,false,no_crisis,false,false
+Angola,1953,false,2.8999999999999998e-08,false,false,0.0,0.0,false,no_crisis,false,false
+Angola,1954,false,2.88e-08,false,false,0.0,-4.04040404,false,no_crisis,false,false
+Angola,1955,false,2.88e-08,false,false,0.0,0.0,false,no_crisis,false,false
+Angola,1956,false,2.88e-08,false,false,0.0,3.157894737,false,no_crisis,false,false
+Angola,1957,false,2.88e-08,false,false,0.0,1.020408163,false,no_crisis,false,false
+Angola,1958,false,2.88e-08,false,false,0.0,2.02020202,false,no_crisis,false,false
+Angola,1959,false,2.89e-08,false,false,0.0,0.0,false,crisis,false,false
+Angola,1960,false,2.88e-08,false,false,0.0,-0.99009901,false,no_crisis,false,false
+Angola,1961,false,2.88e-08,false,false,0.0,2.0,false,no_crisis,false,false
+Angola,1962,false,2.89e-08,false,false,0.0,5.882352941000001,false,no_crisis,false,false
+Angola,1970,false,2.88e-08,false,false,0.0,7.965434021,false,crisis,false,false
+Angola,1971,false,2.76e-08,false,false,0.0,5.777758598999999,false,no_crisis,false,false
+Angola,1972,false,2.7e-08,false,false,0.0,15.79827455,false,crisis,false,false
+Angola,1973,false,2.58e-08,false,false,0.0,15.67485015,false,crisis,false,false
+Angola,1974,false,2.46e-08,false,false,0.0,27.41525989,false,no_crisis,true,false
+Angola,1975,false,2.75e-08,false,false,0.0,29.00043489,true,no_crisis,true,false
+Angola,1976,false,2.99e-08,true,false,0.0,80.69990445,true,no_crisis,true,false
+Angola,1977,false,2.99e-08,false,false,0.0,69.00935079,true,no_crisis,true,false
+Angola,1978,false,2.99e-08,false,false,0.0,48.46106867,true,no_crisis,true,false
+Angola,1979,false,2.99e-08,false,false,0.0,101.3013176,true,no_crisis,true,false
+Angola,1980,false,2.99e-08,false,false,0.0,46.70755462,true,no_crisis,true,false
+Angola,1991,false,1.8e-07,false,true,0.0,85.265,true,crisis,true,false
+Angola,1992,false,5.5e-07,true,true,0.0,299.097,true,crisis,true,true
+Angola,1993,false,6.5000000000000004e-06,true,true,0.0,1379.476,true,crisis,true,true
+Angola,1994,false,0.000509262,true,true,0.0,949.7710000000001,true,crisis,true,true
+Angola,1996,false,0.201994,true,true,0.0,4146.01,true,crisis,true,true
+Angola,1997,false,0.262376,true,true,0.0,221.49200000000002,true,crisis,true,true
+Angola,1998,false,0.6965,true,true,0.0,107.429,true,crisis,true,true
+Angola,2000,false,16.81784,true,true,0.0,325.029,true,crisis,true,false
+Angola,2001,false,31.94936,true,true,0.0,152.586,true,crisis,true,false
+Angola,2002,false,58.66636999999999,true,true,0.0,108.89299999999999,true,crisis,true,false
+Angola,2003,false,79.08149,false,true,0.0,98.34200000000001,true,crisis,true,false
+Angola,2004,false,85.98779,false,false,0.0,43.559,true,crisis,true,false
+Angola,2005,false,80.77951,false,false,0.0,22.961,true,crisis,true,false
+Angola,2006,false,80.26442,false,false,0.0,13.305,true,no_crisis,false,false
+Angola,2007,false,75.023,false,false,0.0,12.249,true,no_crisis,false,false
+Angola,2008,false,75.169,false,false,0.0,12.465,true,no_crisis,false,false
+Angola,2009,false,89.398,false,false,0.0,13.720999999999998,true,crisis,false,false
+Angola,2010,false,92.64299999999999,false,false,0.0,14.48,true,no_crisis,false,false
+Angola,2011,false,95.272,false,false,0.0,13.484000000000002,true,no_crisis,false,false
+Angola,2012,false,95.82588521,false,false,0.0,10.285,true,no_crisis,false,false
+Angola,2013,false,97.56,false,false,0.0,8.782,true,no_crisis,false,false
+Angola,2014,false,101.49,false,false,0.0,7.296,true,no_crisis,false,false
+Central African Republic,1957,false,209.94985150000002,false,false,0.0,6.818181817999999,false,no_crisis,false,false
+Central African Republic,1958,false,245.29982650000002,false,false,0.0,12.76595745,false,no_crisis,false,false
+Central African Republic,1959,false,245.4498264,false,false,0.0,3.7735849060000004,false,crisis,false,false
+Central African Republic,1960,false,245.12982659999997,false,false,0.0,10.90909091,true,no_crisis,false,false
+Central African Republic,1961,false,245.0648267,false,false,0.0,6.557377048999999,true,no_crisis,false,false
+Central African Republic,1962,false,245.0048267,false,false,0.0,7.692307692000001,true,no_crisis,false,false
+Central African Republic,1963,false,245.09982659999997,false,false,0.0,3.714285714,true,no_crisis,false,false
+Central African Republic,1964,false,245.0048267,false,false,0.0,10.05509642,true,no_crisis,false,false
+Central African Republic,1965,false,245.0748266,false,false,0.0,9.386733417,true,no_crisis,false,false
+Central African Republic,1966,false,247.5898249,false,false,0.0,2.745995423,true,no_crisis,false,false
+Central African Republic,1967,false,245.4248264,false,false,0.0,1.893095768,true,no_crisis,false,false
+Central African Republic,1968,false,247.404825,false,false,0.0,4.8087431689999995,true,no_crisis,false,false
+Central African Republic,1969,false,277.9148034,false,false,0.0,0.521376434,true,no_crisis,false,false
+Central African Republic,1970,false,276.02480479999997,false,false,0.0,3.734439834,true,no_crisis,false,false
+Central African Republic,1971,false,261.22481519999997,false,false,0.0,27.69953052,true,no_crisis,true,false
+Central African Republic,1972,false,256.04981890000005,false,false,0.0,-8.823529412000001,true,no_crisis,false,false
+Central African Republic,1973,false,235.4248335,false,false,0.0,5.64516129,true,no_crisis,false,false
+Central African Republic,1974,false,222.22484280000003,false,false,0.0,9.541984733,true,no_crisis,false,false
+Central African Republic,1975,false,224.27484130000002,false,false,0.0,16.02787456,true,no_crisis,false,false
+Central African Republic,1976,true,248.48732420000002,false,false,0.0,10.51051051,true,no_crisis,false,true
+Central African Republic,1977,true,235.2498335,false,false,0.0,11.14130435,true,no_crisis,false,true
+Central African Republic,1978,true,208.9998521,false,false,0.0,11.49144254,true,no_crisis,false,true
+Central African Republic,1979,true,200.99985780000003,false,false,0.0,9.210526316000001,true,no_crisis,false,true
+Central African Republic,1980,true,225.79984019999998,false,false,0.0,13.3,true,no_crisis,false,true
+Central African Republic,1981,true,287.39979669999997,false,true,0.0,14.66,true,no_crisis,false,true
+Central African Republic,1982,true,336.24976210000005,false,false,0.0,13.243,true,no_crisis,false,true
+Central African Republic,1983,false,417.3747047,false,true,0.0,14.558,true,no_crisis,false,false
+Central African Republic,1984,false,479.59966069999996,false,true,0.0,2.6039999999999996,true,no_crisis,false,false
+Central African Republic,1985,false,378.0497326,false,true,0.0,10.457,true,no_crisis,false,false
+Central African Republic,1986,false,322.7497717,false,true,0.0,2.411,true,no_crisis,false,false
+Central African Republic,1987,false,266.9998111,false,true,0.0,-6.986000000000001,true,no_crisis,false,false
+Central African Republic,1988,true,302.9497857,false,true,0.0,-3.9339999999999997,true,no_crisis,false,true
+Central African Republic,1989,true,289.3997953,false,true,0.0,0.645,true,no_crisis,false,true
+Central African Republic,1990,true,256.44981859999996,false,true,0.0,-0.203,true,no_crisis,false,true
+Central African Republic,1991,true,258.9998168,false,true,0.0,-2.8480000000000003,true,no_crisis,false,true
+Central African Republic,1992,true,275.32480519999996,false,true,0.0,-0.757,true,no_crisis,false,true
+Central African Republic,1993,true,294.7747915,false,true,0.0,-2.909,true,no_crisis,false,true
+Central African Republic,1994,true,534.5996218,false,true,0.0,24.55,true,crisis,true,true
+Central African Republic,1995,true,489.9996534,false,true,0.0,19.2,true,no_crisis,false,true
+Central African Republic,1996,true,523.6996296,false,true,0.0,3.7230000000000003,true,no_crisis,false,true
+Central African Republic,1997,true,598.8095764,false,true,0.0,1.597,true,no_crisis,false,true
+Central African Republic,1998,true,562.2096022999999,false,true,0.0,-1.871,true,no_crisis,false,true
+Central African Republic,1999,true,652.9534143,false,true,0.0,-1.415,true,no_crisis,false,true
+Central African Republic,2000,false,704.9511016,false,true,0.0,3.202,true,no_crisis,false,false
+Central African Republic,2001,false,744.3061387,false,true,0.0,3.843,true,no_crisis,false,false
+Central African Republic,2002,false,625.4953752,false,true,0.0,2.298,true,no_crisis,false,false
+Central African Republic,2003,false,519.3642122,false,true,0.0,4.353,true,no_crisis,false,false
+Central African Republic,2004,false,481.5777109,false,true,0.0,-2.244,true,no_crisis,false,false
+Central African Republic,2005,false,556.0371281,false,true,0.0,2.885,true,no_crisis,false,false
+Central African Republic,2006,false,498.0690964,false,true,0.0,6.694,true,no_crisis,false,false
+Central African Republic,2007,false,445.5926907,false,true,0.0,0.935,true,no_crisis,false,false
+Central African Republic,2008,false,471.33505779999996,false,true,0.0,9.262,true,no_crisis,false,false
+Central African Republic,2009,false,455.3359711,false,true,0.0,3.522,true,no_crisis,false,false
+Central African Republic,2010,false,490.9122886,false,true,0.0,1.4909999999999999,true,no_crisis,false,false
+Central African Republic,2011,false,506.96112530000005,false,true,0.0,1.195,true,no_crisis,false,false
+Central African Republic,2012,false,497.16310439999995,false,true,0.0,5.874,true,no_crisis,false,false
+Central African Republic,2013,false,475.64136030000003,false,true,0.0,6.5520000000000005,true,no_crisis,false,false
+Central African Republic,2014,false,540.2825138,false,true,0.0,11.584000000000001,true,no_crisis,false,false
+Ivory Coast,1952,false,0.0,false,false,0.0,16.21609969,false,no_crisis,false,false
+Ivory Coast,1953,false,0.0,false,false,0.0,2.326185353,false,no_crisis,false,false
+Ivory Coast,1954,false,0.0,false,false,0.0,-2.273304086,false,no_crisis,false,false
+Ivory Coast,1955,false,0.0,false,false,0.0,2.326185353,false,no_crisis,false,false
+Ivory Coast,1956,false,0.0,false,false,0.0,4.54479533,false,no_crisis,false,false
+Ivory Coast,1957,false,0.0,false,false,0.0,13.04340287,false,no_crisis,false,false
+Ivory Coast,1958,false,0.0,false,false,0.0,21.15476063,false,no_crisis,true,false
+Ivory Coast,1959,false,0.0,false,false,0.0,6.348281887000001,false,no_crisis,false,false
+Ivory Coast,1960,false,0.0,false,false,0.0,-2.152483452,true,no_crisis,false,false
+Ivory Coast,1961,false,0.0,false,false,0.0,14.43033046,true,no_crisis,false,false
+Ivory Coast,1962,false,0.0,false,false,0.0,-0.177568901,true,no_crisis,false,false
+Ivory Coast,1963,false,0.0,false,false,0.0,8.719549217,true,no_crisis,false,false
+Ivory Coast,1964,false,0.0,false,false,0.0,-3.1690449469999997,true,no_crisis,false,false
+Ivory Coast,1965,false,0.0,false,false,0.0,1.757528693,true,no_crisis,false,false
+Ivory Coast,1966,false,0.0,false,false,0.0,4.665098294,true,no_crisis,false,false
+Ivory Coast,1967,false,0.0,false,false,0.0,2.766186537,true,no_crisis,false,false
+Ivory Coast,1968,false,0.0,false,false,0.0,7.747595621,true,no_crisis,false,false
+Ivory Coast,1969,false,0.0,false,false,0.0,2.5029273830000003,true,no_crisis,false,false
+Ivory Coast,1970,false,278.0,false,false,0.0,8.075116891,true,no_crisis,false,false
+Ivory Coast,1971,false,264.0,false,false,0.0,-1.07225635,true,no_crisis,false,false
+Ivory Coast,1972,false,255.5,false,false,0.0,1.194615424,true,no_crisis,false,false
+Ivory Coast,1973,false,238.0,false,false,0.0,12.9325741,true,no_crisis,false,false
+Ivory Coast,1974,false,222.0,false,false,0.0,18.22418299,true,no_crisis,false,false
+Ivory Coast,1975,false,220.0,false,false,0.0,10.61769304,true,no_crisis,false,false
+Ivory Coast,1976,false,247.0,false,false,0.0,12.90885269,true,no_crisis,false,false
+Ivory Coast,1977,false,236.0,false,false,0.0,24.48243736,true,no_crisis,true,false
+Ivory Coast,1978,false,243.5,false,false,0.0,16.03173523,true,no_crisis,false,false
+Ivory Coast,1979,false,205.0,false,false,0.0,21.75954473,true,no_crisis,true,false
+Ivory Coast,1980,false,221.0,false,false,0.0,8.81,true,no_crisis,false,false
+Ivory Coast,1981,false,290.0,false,false,0.0,8.682,true,no_crisis,false,false
+Ivory Coast,1982,false,352.0,false,false,0.0,7.388999999999999,true,no_crisis,false,false
+Ivory Coast,1983,false,450.0,false,true,0.0,5.879,true,no_crisis,false,false
+Ivory Coast,1984,false,486.5,false,true,0.0,4.281000000000001,true,no_crisis,false,false
+Ivory Coast,1985,false,380.0,false,true,0.0,1.7530000000000001,true,no_crisis,false,false
+Ivory Coast,1986,false,319.0,false,true,0.0,6.837000000000001,true,no_crisis,false,false
+Ivory Coast,1987,false,277.0,false,true,0.0,6.978,true,no_crisis,false,false
+Ivory Coast,1988,true,310.0,false,true,0.0,6.935,true,no_crisis,false,true
+Ivory Coast,1989,true,305.0,false,true,0.0,0.986,true,no_crisis,false,true
+Ivory Coast,1990,true,267.0,false,true,0.0,-0.6579999999999999,true,no_crisis,false,true
+Ivory Coast,1991,true,265.0,false,true,0.0,1.575,true,no_crisis,false,true
+Ivory Coast,1992,false,278.0,false,true,0.0,4.218,true,no_crisis,false,false
+Ivory Coast,1993,false,297.0,false,true,0.0,2.13,true,no_crisis,false,false
+Ivory Coast,1994,false,540.0,false,true,0.0,25.956,true,crisis,true,false
+Ivory Coast,1995,false,495.0,false,true,0.0,14.1,true,no_crisis,false,false
+Ivory Coast,1996,false,525.7,false,true,0.0,2.7,true,no_crisis,false,false
+Ivory Coast,1997,false,616.0,false,true,0.0,6.301,true,no_crisis,false,false
+Ivory Coast,1998,false,576.0,false,true,0.0,5.218999999999999,true,no_crisis,false,false
+Ivory Coast,1999,false,0.0,false,false,0.0,0.92,true,no_crisis,false,false
+Ivory Coast,2000,false,0.0,false,true,0.0,-0.381,true,no_crisis,false,false
+Ivory Coast,2001,false,0.0,false,true,0.0,4.355,true,no_crisis,false,false
+Ivory Coast,2002,false,0.0,false,true,0.0,3.08,true,no_crisis,false,false
+Ivory Coast,2003,false,0.0,false,true,0.0,3.2969999999999997,true,no_crisis,false,false
+Ivory Coast,2004,false,0.0,false,true,0.0,1.459,true,no_crisis,false,false
+Ivory Coast,2005,false,0.0,false,true,0.0,3.884,true,no_crisis,false,false
+Ivory Coast,2006,false,0.0,false,true,0.0,2.4659999999999997,true,no_crisis,false,false
+Ivory Coast,2007,false,0.0,false,true,0.0,1.896,true,no_crisis,false,false
+Ivory Coast,2008,false,0.0,false,true,0.0,6.315,true,no_crisis,false,false
+Ivory Coast,2009,false,0.0,false,true,0.0,1.0090000000000001,true,no_crisis,false,false
+Ivory Coast,2010,false,0.0,false,true,0.0,1.8,true,no_crisis,false,false
+Ivory Coast,2011,false,0.0,false,true,0.0,4.448,true,no_crisis,false,false
+Ivory Coast,2012,false,0.0,false,true,0.0,1.3,true,no_crisis,false,false
+Ivory Coast,2013,false,0.0,false,false,0.0,2.5839999999999996,true,no_crisis,false,false
+Ivory Coast,2014,false,0.0,false,false,0.0,0.449,true,no_crisis,false,false
+Egypt,1860,false,0.20661157,false,false,0.0,5.9444779720000005,true,no_crisis,false,false
+Egypt,1861,false,0.20661157,false,false,0.0,5.9527200229999995,true,no_crisis,false,false
+Egypt,1862,false,0.20661157,false,false,0.0,5.940860215,true,no_crisis,false,false
+Egypt,1863,false,0.20661157,false,false,0.0,5.95026643,true,no_crisis,false,false
+Egypt,1864,false,0.20661157,false,false,0.0,5.951383067999999,true,no_crisis,false,false
+Egypt,1865,false,0.20661157,false,false,0.0,5.9448462929999994,true,no_crisis,false,false
+Egypt,1866,false,0.20661157,false,false,0.0,5.941967142999999,true,no_crisis,false,false
+Egypt,1867,false,0.20661157,false,false,0.0,5.95106233,true,no_crisis,false,false
+Egypt,1868,false,0.20661157,false,false,0.0,5.94943927,true,no_crisis,false,false
+Egypt,1869,false,0.1967,false,false,0.0,5.938284894,true,no_crisis,false,false
+Egypt,1870,false,0.196,false,false,0.0,5.952582557,true,no_crisis,false,false
+Egypt,1871,false,0.1978,false,false,0.0,12.97850236,true,no_crisis,false,false
+Egypt,1872,false,0.1984,false,false,0.0,-4.201740115,true,no_crisis,false,false
+Egypt,1873,false,0.19699999999999998,false,false,0.0,-4.171896921,true,no_crisis,false,false
+Egypt,1874,false,0.198,false,false,0.0,1.556480197,true,no_crisis,false,false
+Egypt,1875,false,0.1941,false,false,0.0,-8.528072838,true,no_crisis,false,false
+Egypt,1876,false,0.1983,false,true,0.4,-10.87425348,true,no_crisis,false,false
+Egypt,1877,false,0.1955,false,true,0.4,-0.43741275,true,no_crisis,false,false
+Egypt,1878,false,0.1967,false,true,0.4,-0.514114788,true,no_crisis,false,false
+Egypt,1879,false,0.1981,false,true,0.4,10.55153622,true,no_crisis,false,false
+Egypt,1880,false,0.201,false,true,0.4,1.7848036719999998,true,no_crisis,false,false
+Egypt,1881,false,0.2,false,false,0.0,-12.40814963,true,no_crisis,false,false
+Egypt,1882,false,0.1998,false,false,0.0,4.232602479,true,no_crisis,false,false
+Egypt,1883,false,0.1998,false,false,0.0,-2.231571246,true,no_crisis,false,false
+Egypt,1884,false,0.2003,false,false,0.0,-0.477081384,true,no_crisis,false,false
+Egypt,1885,false,0.1991,false,false,0.0,-6.438575054,true,no_crisis,false,false
+Egypt,1886,false,0.2007,false,false,0.0,3.616636528,true,no_crisis,false,false
+Egypt,1887,false,0.1999,false,false,0.0,-2.8407989139999996,true,no_crisis,false,false
+Egypt,1888,false,0.1987,false,false,0.0,-6.2169444170000006,true,no_crisis,false,false
+Egypt,1889,false,0.2005,false,false,0.0,-12.33241115,true,no_crisis,false,false
+Egypt,1890,false,0.2003,false,false,0.0,7.949993931,true,no_crisis,false,false
+Egypt,1891,false,0.201,false,false,0.0,10.17539915,true,no_crisis,false,false
+Egypt,1892,false,0.1993,false,false,0.0,1.959383611,true,no_crisis,false,false
+Egypt,1893,false,0.1983,false,false,0.0,-13.92253028,true,no_crisis,false,false
+Egypt,1894,false,0.19899999999999998,false,false,0.0,-4.953488372,true,no_crisis,false,false
+Egypt,1895,false,0.1971,false,false,0.0,-5.578664057,true,no_crisis,false,false
+Egypt,1896,false,0.1976,false,false,0.0,9.70458668,true,no_crisis,false,false
+Egypt,1897,false,0.1986,false,false,0.0,2.846344632,true,no_crisis,false,false
+Egypt,1898,false,0.1985,false,false,0.0,14.21681213,true,no_crisis,false,false
+Egypt,1899,false,0.1951,false,false,0.0,-6.374422377999999,true,no_crisis,false,false
+Egypt,1900,false,0.1999,false,false,0.0,7.388316151000001,true,no_crisis,false,false
+Egypt,1901,false,0.1975,false,false,0.0,0.11,true,no_crisis,false,false
+Egypt,1902,false,0.1988,false,false,0.0,-0.549395665,true,no_crisis,false,false
+Egypt,1903,false,0.2009,false,false,0.0,-7.533145842000001,true,no_crisis,false,false
+Egypt,1904,false,0.1994,false,false,0.0,-2.639582881,true,no_crisis,false,false
+Egypt,1905,false,0.201,false,false,0.0,15.36315966,true,no_crisis,false,false
+Egypt,1906,false,0.2003,false,false,0.0,9.448742747,true,no_crisis,false,false
+Egypt,1907,true,0.2006,false,false,0.0,1.307767076,true,no_crisis,false,true
+Egypt,1908,false,0.1994,false,false,0.0,8.87047536,true,no_crisis,false,false
+Egypt,1909,false,0.1995,false,false,0.0,1.185707419,true,no_crisis,false,false
+Egypt,1910,false,0.1999,false,false,0.0,-11.7418844,true,no_crisis,false,false
+Egypt,1911,false,0.1996,false,false,0.0,1.291827398,true,no_crisis,false,false
+Egypt,1912,false,0.1998,false,false,0.0,6.24391108,true,no_crisis,false,false
+Egypt,1913,false,0.2007,false,false,0.0,11.40380127,true,no_crisis,false,false
+Egypt,1914,false,0.1996,false,false,0.0,-1.137384017,true,no_crisis,false,false
+Egypt,1915,false,0.20600000000000002,false,false,0.0,-16.00060551,true,no_crisis,false,false
+Egypt,1916,false,0.2049,false,false,0.0,19.326921,true,no_crisis,false,false
+Egypt,1917,false,0.2049,false,false,0.0,35.4800225,true,no_crisis,true,false
+Egypt,1918,false,0.2042,false,false,0.0,18.04671609,true,no_crisis,false,false
+Egypt,1919,false,0.2554,false,false,0.0,12.1743099,true,no_crisis,false,false
+Egypt,1920,false,0.2787,false,false,0.0,20.60262757,true,no_crisis,true,false
+Egypt,1921,false,0.2343,false,false,0.0,-28.50213688,true,no_crisis,false,false
+Egypt,1922,false,0.2112,false,false,0.0,-11.806767599999999,true,no_crisis,false,false
+Egypt,1923,false,0.2244,false,false,0.0,-10.90447887,true,no_crisis,false,false
+Egypt,1924,false,0.2074,false,false,0.0,7.201266764,true,no_crisis,false,false
+Egypt,1925,false,0.2008,false,false,0.0,5.682103785,true,no_crisis,false,false
+Egypt,1926,false,0.2011,false,false,0.0,-11.35479535,true,no_crisis,false,false
+Egypt,1927,false,0.1998,false,false,0.0,-8.356955722,true,no_crisis,false,false
+Egypt,1928,false,0.201,false,false,0.0,4.5057024000000006,true,no_crisis,false,false
+Egypt,1929,false,0.1998,false,false,0.0,-3.3396603419999997,true,no_crisis,false,false
+Egypt,1930,false,0.2008,false,false,0.0,-6.922294859,true,no_crisis,false,false
+Egypt,1931,true,0.289,false,false,0.0,-5.020231154,true,no_crisis,false,true
+Egypt,1932,false,0.2975,false,false,0.0,-10.84823995,true,no_crisis,false,false
+Egypt,1933,false,0.1906,false,false,0.0,-9.793127400000001,true,no_crisis,false,false
+Egypt,1934,false,0.1971,false,false,0.0,23.96925479,true,no_crisis,true,false
+Egypt,1935,false,0.1979,false,false,0.0,5.648570427,true,no_crisis,false,false
+Egypt,1936,false,0.1987,false,false,0.0,-7.249727067999999,true,no_crisis,false,false
+Egypt,1937,false,0.1952,false,false,0.0,-1.022813275,true,no_crisis,false,false
+Egypt,1938,false,0.2088,false,false,0.0,11.43314281,true,no_crisis,false,false
+Egypt,1939,false,0.2481,false,false,0.0,-1.435148115,true,no_crisis,false,false
+Egypt,1940,false,0.2416,false,false,0.0,10.38362042,true,no_crisis,false,false
+Egypt,1941,false,0.2416,false,false,0.0,24.18818835,true,no_crisis,true,false
+Egypt,1942,false,0.2416,false,false,0.0,40.76638415,true,no_crisis,true,false
+Egypt,1943,false,0.2416,false,false,0.0,17.48643148,true,no_crisis,false,false
+Egypt,1944,false,0.2416,false,false,0.0,11.37938502,true,no_crisis,false,false
+Egypt,1945,false,0.2416,false,false,0.0,0.0,true,no_crisis,false,false
+Egypt,1946,false,0.2416,false,false,0.0,2.119179547,true,no_crisis,false,false
+Egypt,1947,false,0.2416,false,false,0.0,-3.112803427,true,no_crisis,false,false
+Egypt,1948,false,0.2416,false,false,0.0,0.7139582109999999,true,no_crisis,false,false
+Egypt,1949,false,0.3484,false,false,0.0,0.0,true,crisis,false,false
+Egypt,1950,false,0.3484,false,false,0.0,8.510015609,true,no_crisis,false,false
+Egypt,1951,false,0.3484,false,false,0.0,7.599868141,true,no_crisis,false,false
+Egypt,1952,false,0.3484,false,false,0.0,-10.25483916,true,no_crisis,false,false
+Egypt,1953,false,0.3484,false,false,0.0,-0.9527356240000001,true,no_crisis,false,false
+Egypt,1954,false,0.3484,false,false,0.0,-2.885699962,true,no_crisis,false,false
+Egypt,1955,false,0.3484,false,false,0.0,0.0,true,no_crisis,false,false
+Egypt,1956,false,0.3484,false,false,0.0,3.961929343,true,no_crisis,false,false
+Egypt,1957,false,0.3509,false,false,0.0,3.249231915,true,no_crisis,false,false
+Egypt,1958,false,0.3509,false,false,0.0,-1.340547039,true,no_crisis,false,false
+Egypt,1959,false,0.3509,false,false,0.0,0.694613697,true,no_crisis,false,false
+Egypt,1960,false,0.3509,false,false,0.0,0.726128525,true,no_crisis,false,false
+Egypt,1961,false,0.3509,false,false,0.0,1.17746005,true,no_crisis,false,false
+Egypt,1962,false,0.4348,false,false,0.0,-4.203776274,true,crisis,false,false
+Egypt,1963,false,0.4348,false,false,0.0,2.060865254,true,no_crisis,false,false
+Egypt,1964,false,0.4348,false,false,0.0,7.824338769,true,no_crisis,false,false
+Egypt,1965,false,0.4348,false,false,0.0,13.12090131,true,no_crisis,false,false
+Egypt,1966,false,0.4348,false,false,0.0,6.693697414,true,no_crisis,false,false
+Egypt,1967,false,0.4348,false,false,0.0,0.119617553,true,no_crisis,false,false
+Egypt,1968,false,0.4348,false,false,0.0,0.455818017,true,no_crisis,false,false
+Egypt,1969,false,0.4348,false,false,0.0,3.676736584,true,no_crisis,false,false
+Egypt,1970,false,0.4348,false,false,0.0,3.36871659,true,no_crisis,false,false
+Egypt,1971,false,0.4348,false,false,0.0,2.942979233,true,no_crisis,false,false
+Egypt,1972,false,0.4348,false,false,0.0,2.424102664,true,no_crisis,false,false
+Egypt,1973,false,0.4348,false,false,0.0,5.740312478,true,no_crisis,false,false
+Egypt,1974,false,0.3913,false,false,0.0,10.64040499,true,no_crisis,false,false
+Egypt,1975,false,0.3913,false,false,0.0,9.899265451,true,no_crisis,false,false
+Egypt,1976,false,0.3913,false,false,0.0,10.29192345,true,no_crisis,false,false
+Egypt,1977,false,0.3913,false,false,0.0,11.61462645,true,no_crisis,false,false
+Egypt,1978,false,0.3913,false,false,0.0,11.27087249,true,no_crisis,false,false
+Egypt,1979,false,0.7,false,false,0.0,9.90279235,true,crisis,false,false
+Egypt,1980,true,0.6999999990000001,false,false,0.0,20.5,true,no_crisis,true,false
+Egypt,1981,true,0.6999999990000001,false,false,0.0,10.4,true,no_crisis,false,true
+Egypt,1982,true,0.6999999990000001,false,false,0.0,14.9,true,no_crisis,false,true
+Egypt,1983,true,0.6999999990000001,false,false,0.0,15.982000000000001,true,no_crisis,false,true
+Egypt,1984,false,0.7,false,true,0.4,17.06,true,no_crisis,false,false
+Egypt,1985,false,0.7,false,false,0.0,12.107999999999999,true,no_crisis,false,false
+Egypt,1986,false,0.7,false,false,0.0,23.9,true,no_crisis,true,false
+Egypt,1987,false,0.7,false,false,0.0,25.185,true,no_crisis,true,false
+Egypt,1988,false,0.7,false,false,0.0,15.185,true,no_crisis,false,false
+Egypt,1989,false,1.1,false,false,0.0,20.129,true,crisis,true,false
+Egypt,1990,false,2.0,false,false,0.0,21.219,true,crisis,true,true
+Egypt,1991,false,3.33221,false,false,0.0,14.737,true,crisis,false,true
+Egypt,1992,false,3.3386099999999996,false,false,0.0,21.142,true,no_crisis,true,true
+Egypt,1993,false,3.3718,false,false,0.0,11.042,true,no_crisis,false,true
+Egypt,1994,false,3.391,false,false,0.0,9.046,true,no_crisis,false,true
+Egypt,1995,false,3.39,false,false,0.0,9.361,true,no_crisis,false,true
+Egypt,1996,false,3.388,false,false,0.0,7.095,true,no_crisis,false,false
+Egypt,1997,false,3.388,false,false,0.0,6.167000000000001,true,no_crisis,false,false
+Egypt,1998,false,3.388,false,false,0.0,5.041,true,no_crisis,false,false
+Egypt,1999,false,3.405,false,false,0.0,3.745,true,no_crisis,false,false
+Egypt,2000,false,3.69,false,false,0.0,2.8489999999999998,true,no_crisis,false,false
+Egypt,2001,false,4.49,false,false,0.0,2.431,true,crisis,false,false
+Egypt,2002,false,4.5,false,false,0.0,3.21,true,no_crisis,false,false
+Egypt,2003,false,6.1532,false,false,0.0,0.0,true,crisis,false,false
+Egypt,2004,false,6.1314,false,false,0.0,8.106,true,no_crisis,false,false
+Egypt,2005,false,5.7322,false,false,0.0,8.826,true,no_crisis,false,false
+Egypt,2006,false,5.7036,false,false,0.0,4.202,true,no_crisis,false,false
+Egypt,2007,false,5.5038,false,false,0.0,10.959000000000001,true,no_crisis,false,false
+Egypt,2008,false,5.5041,false,false,0.0,11.698,true,no_crisis,false,false
+Egypt,2009,false,5.4754,false,false,0.0,16.24,true,no_crisis,false,false
+Egypt,2010,false,5.7926,false,false,0.0,11.69,true,no_crisis,false,false
+Egypt,2011,false,6.0169,false,false,0.0,11.09,true,no_crisis,false,false
+Egypt,2012,false,6.3057,false,false,0.0,8.65,true,no_crisis,false,false
+Egypt,2013,false,6.94,false,false,0.0,6.914,true,no_crisis,false,false
+Egypt,2014,false,7.15,false,false,0.0,10.099,true,no_crisis,false,false
+Kenya,1948,false,4.9582,false,false,0.0,9.339830607,false,no_crisis,false,false
+Kenya,1949,false,4.9582,false,false,0.0,3.5229202039999996,false,no_crisis,false,false
+Kenya,1950,false,7.1428,false,false,0.0,8.553710537,false,no_crisis,false,false
+Kenya,1951,false,7.1428,false,false,0.0,10.87767339,false,no_crisis,false,false
+Kenya,1952,false,7.1428,false,false,0.0,6.4509261229999995,false,no_crisis,false,false
+Kenya,1953,false,7.1428,false,false,0.0,3.032,false,no_crisis,false,false
+Kenya,1954,false,7.1429,false,false,0.0,4.410280301,false,no_crisis,false,false
+Kenya,1955,false,7.1429,false,false,0.0,6.369450435,false,no_crisis,false,false
+Kenya,1956,false,7.1429,false,false,0.0,1.786276086,false,no_crisis,false,false
+Kenya,1957,false,7.1429,false,false,0.0,2.630675184,false,no_crisis,false,false
+Kenya,1958,false,7.1429,false,false,0.0,0.0,false,no_crisis,false,false
+Kenya,1959,false,7.1429,false,false,0.0,0.856645697,false,no_crisis,false,false
+Kenya,1960,false,7.1429,false,false,0.0,0.846051758,false,no_crisis,false,false
+Kenya,1961,false,7.1429,false,false,0.0,2.520151341,false,no_crisis,false,false
+Kenya,1962,false,7.1429,false,false,0.0,2.7406052439999997,false,no_crisis,false,false
+Kenya,1963,false,7.1429,false,false,0.0,0.0,true,no_crisis,false,false
+Kenya,1964,false,7.1429,false,false,0.0,-0.285715557,true,no_crisis,false,false
+Kenya,1965,false,7.1429,false,false,0.0,5.762329909,true,no_crisis,false,false
+Kenya,1966,false,7.1429,false,false,0.0,3.761913134,true,no_crisis,false,false
+Kenya,1967,false,7.1429,false,false,0.0,0.537398087,true,no_crisis,false,false
+Kenya,1968,false,7.1429,false,false,0.0,0.661865236,true,no_crisis,false,false
+Kenya,1969,false,7.1429,false,false,0.0,-0.131090559,true,no_crisis,false,false
+Kenya,1970,false,7.1429,false,false,0.0,1.8325938119999998,true,no_crisis,false,false
+Kenya,1971,false,7.1429,false,false,0.0,5.6147735370000005,true,no_crisis,false,false
+Kenya,1972,false,7.1429,false,false,0.0,4.52521913,true,no_crisis,false,false
+Kenya,1973,false,6.9,false,false,0.0,12.66289775,true,no_crisis,false,false
+Kenya,1974,false,7.1429,false,false,0.0,16.41376144,true,no_crisis,false,false
+Kenya,1975,false,7.1429,false,false,0.0,19.734738399999998,true,no_crisis,false,false
+Kenya,1976,false,8.27,false,false,0.0,9.527607326,true,crisis,false,false
+Kenya,1977,false,7.9471,false,false,0.0,18.01088176,true,no_crisis,false,false
+Kenya,1978,false,7.1588,false,false,0.0,15.35621451,true,no_crisis,false,false
+Kenya,1979,false,7.3276,false,false,0.0,8.080283232000001,true,no_crisis,false,false
+Kenya,1980,false,7.568499999,false,false,0.0,13.866,true,no_crisis,false,false
+Kenya,1981,false,10.2862,false,false,0.0,7.895,true,crisis,false,false
+Kenya,1982,false,12.7249,false,false,0.0,13.821,true,crisis,false,false
+Kenya,1983,false,13.7959,false,false,0.0,11.603,true,no_crisis,false,false
+Kenya,1984,false,15.7813,false,false,0.0,20.666999999999998,true,no_crisis,true,false
+Kenya,1985,true,16.2843,false,false,0.0,11.398,true,no_crisis,false,true
+Kenya,1986,true,16.0422,false,false,0.0,10.284,true,no_crisis,false,true
+Kenya,1987,true,16.5149,false,false,0.0,13.007,true,no_crisis,false,true
+Kenya,1988,true,18.5994,false,false,0.0,4.803999999999999,true,no_crisis,false,true
+Kenya,1989,true,21.601,false,false,0.0,7.617000000000001,true,crisis,false,false
+Kenya,1990,false,24.0841,false,false,0.0,11.2,true,no_crisis,false,false
+Kenya,1991,false,28.0741,false,false,0.0,19.104,true,crisis,false,false
+Kenya,1992,true,36.2163,false,false,0.0,27.331999999999997,true,crisis,true,true
+Kenya,1993,true,68.1631,false,false,0.0,45.979,true,crisis,true,true
+Kenya,1994,true,44.8389,false,true,0.0,28.814,true,no_crisis,true,true
+Kenya,1995,true,55.9389,false,true,0.0,1.554,true,no_crisis,false,true
+Kenya,1996,true,55.0211,false,true,0.0,8.862,true,no_crisis,false,false
+Kenya,1997,true,62.6778,false,true,0.0,11.924000000000001,true,no_crisis,false,false
+Kenya,1998,true,61.9056,false,true,0.0,6.716,true,no_crisis,false,false
+Kenya,1999,true,72.9306,false,false,0.0,5.752999999999999,true,crisis,false,false
+Kenya,2000,false,78.0361,false,true,0.0,9.955,true,no_crisis,false,false
+Kenya,2001,false,78.6,false,false,0.0,5.824,true,no_crisis,false,false
+Kenya,2002,false,77.0722,false,false,0.0,2.156,true,no_crisis,false,false
+Kenya,2003,false,76.1389,false,false,0.0,5.983,true,no_crisis,false,false
+Kenya,2004,false,77.3444,false,false,0.0,8.381,true,no_crisis,false,false
+Kenya,2005,false,72.3667,false,false,0.0,7.8229999999999995,true,no_crisis,false,false
+Kenya,2006,false,69.3967,false,false,0.0,6.041,true,no_crisis,false,false
+Kenya,2007,false,62.675,false,false,0.0,4.265,true,no_crisis,false,false
+Kenya,2008,false,77.71111111,false,false,0.0,15.100999999999999,true,crisis,false,false
+Kenya,2009,false,75.82,false,false,0.0,10.552,true,no_crisis,false,false
+Kenya,2010,false,80.75194444,false,false,0.0,4.309,true,no_crisis,false,false
+Kenya,2011,false,85.0681,false,false,0.0,14.022,true,no_crisis,false,false
+Kenya,2012,false,86.0008,false,false,0.0,9.378,true,no_crisis,false,false
+Kenya,2013,false,86.31,false,false,0.0,5.7170000000000005,true,no_crisis,false,false
+Kenya,2014,false,89.35,false,false,0.0,6.877999999999999,true,no_crisis,false,false
+Mauritius,1947,false,3.3085,false,false,0.0,-9.090909091,false,no_crisis,false,false
+Mauritius,1948,false,3.3085,false,false,0.0,31.99785465,false,no_crisis,true,false
+Mauritius,1949,false,4.7619,false,false,0.0,1.023932388,false,no_crisis,false,false
+Mauritius,1950,false,4.7619,false,false,0.0,4.904878735,false,no_crisis,false,false
+Mauritius,1951,false,4.792009999999999,false,false,0.0,11.15115499,false,no_crisis,false,false
+Mauritius,1952,false,4.74495,false,false,0.0,1.941981994,false,no_crisis,false,false
+Mauritius,1953,false,4.74292,false,false,0.0,-0.6344318870000001,false,no_crisis,false,false
+Mauritius,1954,false,4.78754,false,false,0.0,0.956872627,false,no_crisis,false,false
+Mauritius,1955,false,4.75544,false,false,0.0,-0.315372291,false,no_crisis,false,false
+Mauritius,1956,false,4.78651,false,false,0.0,2.8574812210000005,false,no_crisis,false,false
+Mauritius,1957,false,4.66297,false,false,0.0,-0.926032535,false,no_crisis,false,false
+Mauritius,1958,false,4.75764,false,false,0.0,0.622571969,false,no_crisis,false,false
+Mauritius,1959,false,4.76189,false,false,0.0,-0.618719992,false,no_crisis,false,false
+Mauritius,1960,false,4.75544,false,false,0.0,1.8693761000000002,false,no_crisis,false,false
+Mauritius,1961,false,4.7481599999999995,false,false,0.0,-0.612777053,false,no_crisis,false,false
+Mauritius,1962,false,4.75764,false,false,0.0,0.798570117,false,no_crisis,false,false
+Mauritius,1963,false,4.76768,false,false,0.0,1.753672463,true,no_crisis,false,false
+Mauritius,1964,false,4.77879,false,false,0.0,1.8269885,true,no_crisis,false,false
+Mauritius,1965,false,4.75714,false,false,0.0,1.893322561,true,no_crisis,false,false
+Mauritius,1966,false,4.77862,false,false,0.0,2.982014118,true,no_crisis,false,false
+Mauritius,1967,false,5.541,false,false,0.0,2.9378304010000003,true,no_crisis,false,false
+Mauritius,1968,false,5.59189,false,false,0.0,5.329676052,true,no_crisis,false,false
+Mauritius,1969,false,5.55392,false,false,0.0,2.978677387,true,no_crisis,false,false
+Mauritius,1970,false,5.57016,false,false,0.0,0.011228728,true,no_crisis,false,false
+Mauritius,1971,false,5.2236199999999995,false,false,0.0,1.886196037,true,no_crisis,false,false
+Mauritius,1972,false,5.6783,false,false,0.0,5.551930333,true,no_crisis,false,false
+Mauritius,1973,false,5.7392,false,false,0.0,20.82296472,true,no_crisis,true,false
+Mauritius,1974,false,5.6774,false,false,0.0,23.79801683,true,no_crisis,true,false
+Mauritius,1975,false,6.5892,false,false,0.0,15.20534955,true,no_crisis,false,false
+Mauritius,1976,false,6.638999999999999,false,false,0.0,10.75945144,true,no_crisis,false,false
+Mauritius,1977,false,6.3503,false,false,0.0,9.794534492999999,true,no_crisis,false,false
+Mauritius,1978,false,5.921,false,false,0.0,9.063188827000001,true,no_crisis,false,false
+Mauritius,1979,false,7.5855,false,false,0.0,23.21616753,true,crisis,true,false
+Mauritius,1980,false,7.8349,false,false,0.0,33.04,true,no_crisis,true,false
+Mauritius,1981,false,10.3293,false,false,0.0,26.45,true,crisis,true,false
+Mauritius,1982,false,10.8605,false,false,0.0,13.384,true,no_crisis,false,false
+Mauritius,1983,false,12.7233,false,false,0.0,7.452000000000001,true,crisis,false,false
+Mauritius,1984,false,15.6033,false,false,0.0,5.525,true,crisis,false,false
+Mauritius,1985,false,14.31,false,false,0.0,8.321,true,no_crisis,false,false
+Mauritius,1986,false,13.1367,false,false,0.0,4.336,true,no_crisis,false,false
+Mauritius,1987,false,12.1752,false,false,0.0,0.7190000000000001,true,no_crisis,false,false
+Mauritius,1988,false,13.8337,false,false,0.0,3.6,true,no_crisis,false,false
+Mauritius,1989,false,14.995999999999999,false,false,0.0,13.61,true,no_crisis,false,false
+Mauritius,1990,false,14.322000000000001,false,false,0.0,10.705,true,no_crisis,false,false
+Mauritius,1991,false,14.7939,false,false,0.0,12.817,true,no_crisis,false,false
+Mauritius,1992,false,16.998,false,false,0.0,2.8569999999999998,true,no_crisis,false,false
+Mauritius,1993,false,18.6558,false,false,0.0,15.288,true,no_crisis,false,false
+Mauritius,1994,false,17.8626,false,false,0.0,7.335,true,no_crisis,false,false
+Mauritius,1995,false,17.6641,false,false,0.0,6.026,true,no_crisis,false,false
+Mauritius,1996,false,17.9715,false,false,0.0,6.553,true,no_crisis,false,true
+Mauritius,1997,false,22.265,false,false,0.0,6.831,true,crisis,false,false
+Mauritius,1998,false,24.7835,false,false,0.0,6.808,true,no_crisis,false,false
+Mauritius,1999,false,25.468000000000004,false,false,0.0,6.872000000000001,true,no_crisis,false,false
+Mauritius,2000,false,27.8817,false,false,0.0,4.23,true,no_crisis,false,false
+Mauritius,2001,false,30.3942,false,false,0.0,5.391,true,no_crisis,false,false
+Mauritius,2002,false,29.1968,false,false,0.0,6.414,true,no_crisis,false,false
+Mauritius,2003,false,26.0877,false,false,0.0,3.931,true,no_crisis,false,false
+Mauritius,2004,false,28.2044,false,false,0.0,4.703,true,no_crisis,false,false
+Mauritius,2005,false,30.6666,false,false,0.0,4.921,true,no_crisis,false,false
+Mauritius,2006,false,34.3368,false,false,0.0,8.93,true,no_crisis,false,false
+Mauritius,2007,false,28.2162,false,false,0.0,8.827,true,no_crisis,false,false
+Mauritius,2008,false,31.7555,false,false,0.0,9.731,true,no_crisis,false,false
+Mauritius,2009,false,30.2905,false,false,0.0,2.516,true,no_crisis,false,false
+Mauritius,2010,false,30.39,false,false,0.0,2.929,true,no_crisis,false,false
+Mauritius,2011,false,29.33,false,false,0.0,6.526,true,no_crisis,false,false
+Mauritius,2012,false,30.52,false,false,0.0,4.902,true,no_crisis,false,false
+Mauritius,2013,false,30.12512987,false,false,0.0,4.131,true,no_crisis,false,false
+Mauritius,2014,false,31.737458399999998,false,false,0.0,3.772,true,no_crisis,false,false
+Morocco,1940,false,0.917,false,false,0.0,25.0,false,no_crisis,true,false
+Morocco,1941,false,0.917,false,false,0.0,32.0,false,no_crisis,true,false
+Morocco,1942,false,0.75,false,false,0.0,38.1935295,false,no_crisis,true,false
+Morocco,1943,false,0.5,false,false,0.0,28.50635593,false,crisis,true,false
+Morocco,1944,false,0.5674,false,false,0.0,34.8116396,false,crisis,true,false
+Morocco,1945,false,0.5657,false,false,0.0,18.98618075,false,no_crisis,false,false
+Morocco,1946,false,1.2228,false,false,0.0,56.75522894,false,no_crisis,true,false
+Morocco,1947,false,1.2228,false,false,0.0,57.47303544,false,crisis,true,false
+Morocco,1948,false,1.2228,false,false,0.0,40.14656285,false,no_crisis,true,false
+Morocco,1949,false,2.197,false,false,0.0,22.99979203,false,crisis,true,false
+Morocco,1950,false,3.5824,false,false,0.0,1.6255842319999998,false,crisis,false,false
+Morocco,1951,false,3.5824,false,false,0.0,23.2010648,false,no_crisis,true,false
+Morocco,1952,false,3.5824,false,false,0.0,5.1943667410000005,false,no_crisis,false,false
+Morocco,1953,false,3.5824,false,false,0.0,-1.234239604,false,no_crisis,false,false
+Morocco,1954,false,3.5824,false,false,0.0,2.49932689,false,no_crisis,false,false
+Morocco,1955,false,3.5824,false,false,0.0,5.86226574,false,no_crisis,false,false
+Morocco,1956,false,3.5824,false,false,0.0,5.714750199,true,no_crisis,false,false
+Morocco,1957,false,3.5875,false,false,0.0,2.317242942,true,no_crisis,false,false
+Morocco,1958,false,4.2958,false,false,0.0,4.383973421,true,crisis,false,false
+Morocco,1959,false,4.908,false,false,0.0,-2.1711618180000003,true,crisis,false,false
+Morocco,1960,false,5.0605,false,false,0.0,2.2193474419999997,true,no_crisis,false,false
+Morocco,1961,false,5.0605,false,false,0.0,2.27574134,true,no_crisis,false,false
+Morocco,1962,false,5.0241,false,false,0.0,5.408269117000001,true,no_crisis,false,false
+Morocco,1963,false,5.0226,false,false,0.0,5.738828475,true,no_crisis,false,false
+Morocco,1964,false,5.0226,false,false,0.0,4.233330742,true,no_crisis,false,false
+Morocco,1965,false,5.0235,false,false,0.0,2.481368989,true,no_crisis,false,false
+Morocco,1966,false,5.0265,false,false,0.0,-0.234959675,true,no_crisis,false,false
+Morocco,1967,false,5.0276,false,false,0.0,-1.126519599,true,no_crisis,false,false
+Morocco,1968,false,5.0409,false,false,0.0,1.138535071,true,no_crisis,false,false
+Morocco,1969,false,5.0493,false,false,0.0,1.691647635,true,no_crisis,false,false
+Morocco,1970,false,5.0269,false,false,0.0,1.915840245,true,no_crisis,false,false
+Morocco,1971,false,4.76,false,false,0.0,4.3974410719999995,true,no_crisis,false,false
+Morocco,1972,false,4.5569,false,false,0.0,3.211368966,true,no_crisis,false,false
+Morocco,1973,false,3.8851,false,false,0.0,7.1933481189999995,true,no_crisis,false,false
+Morocco,1974,false,4.1548,false,false,0.0,15.97890765,true,no_crisis,false,false
+Morocco,1975,false,3.8379,false,false,0.0,7.00696628,true,no_crisis,false,false
+Morocco,1976,false,4.2041,false,false,0.0,10.97328486,true,no_crisis,false,false
+Morocco,1977,false,4.32,false,false,0.0,10.81415052,true,no_crisis,false,false
+Morocco,1978,false,3.88645,false,false,0.0,9.720054887,true,no_crisis,false,false
+Morocco,1979,false,3.7388,false,false,0.0,8.651393052000001,true,no_crisis,false,false
+Morocco,1980,false,4.334149999,false,false,0.0,9.408,true,no_crisis,false,false
+Morocco,1981,false,5.333349999,false,false,0.0,12.493,true,no_crisis,false,false
+Morocco,1982,false,6.267549999,false,false,0.0,10.527999999999999,true,no_crisis,false,false
+Morocco,1983,true,8.060999999,false,true,0.13,6.207999999999999,true,no_crisis,false,true
+Morocco,1984,true,9.551199999,false,false,0.0,12.448,true,no_crisis,false,true
+Morocco,1985,false,9.621299999,false,false,0.0,7.729,true,crisis,false,false
+Morocco,1986,false,8.7117,false,true,0.13,8.734,true,no_crisis,false,false
+Morocco,1987,false,7.8003,false,true,0.13,2.699,true,no_crisis,false,false
+Morocco,1988,false,8.2106,false,true,0.13,2.369,true,no_crisis,false,false
+Morocco,1989,false,8.1218,false,true,0.13,3.138,true,no_crisis,false,false
+Morocco,1990,false,8.0429,false,true,0.13,6.026,true,no_crisis,false,false
+Morocco,1991,false,8.1499,false,false,0.0,8.991,true,no_crisis,false,false
+Morocco,1992,false,9.0487,false,false,0.0,5.74,true,no_crisis,false,false
+Morocco,1993,false,9.6512,false,false,0.0,5.183,true,no_crisis,false,false
+Morocco,1994,false,8.9596,false,false,0.0,5.142,true,no_crisis,false,false
+Morocco,1995,false,8.4689,false,false,0.0,6.124,true,no_crisis,false,false
+Morocco,1996,false,8.7995,false,false,0.0,2.987,true,no_crisis,false,false
+Morocco,1997,false,9.7141,false,false,0.0,1.041,true,no_crisis,false,false
+Morocco,1998,false,9.2551,false,false,0.0,2.745,true,no_crisis,false,false
+Morocco,1999,false,10.087,false,false,0.0,0.69,true,no_crisis,false,false
+Morocco,2000,false,10.619000000000002,false,false,0.0,1.923,true,no_crisis,false,false
+Morocco,2001,false,11.56,false,false,0.0,0.613,true,no_crisis,false,false
+Morocco,2002,false,10.167,false,false,0.0,2.779,true,no_crisis,false,false
+Morocco,2003,false,8.7499,false,false,0.0,1.163,true,no_crisis,false,false
+Morocco,2004,false,8.2177,false,false,0.0,1.493,true,no_crisis,false,false
+Morocco,2005,false,9.2494,false,false,0.0,0.983,true,no_crisis,false,false
+Morocco,2006,false,8.4566,false,false,0.0,3.285,true,no_crisis,false,false
+Morocco,2007,false,7.7132,false,false,0.0,2.036,true,no_crisis,false,false
+Morocco,2008,false,8.0982,false,false,0.0,3.891,true,no_crisis,false,false
+Morocco,2009,false,7.8601,false,false,0.0,0.972,true,no_crisis,false,false
+Morocco,2010,false,8.3569,false,false,0.0,0.9940000000000001,true,no_crisis,false,false
+Morocco,2011,false,8.5772,false,false,0.0,0.907,true,no_crisis,false,false
+Morocco,2012,false,8.4335,false,false,0.0,1.287,true,no_crisis,false,false
+Morocco,2013,false,8.15,false,false,0.0,1.881,true,no_crisis,false,false
+Morocco,2014,false,8.82,false,false,0.0,0.44299999999999995,true,no_crisis,false,false
+Nigeria,1954,false,0.0,false,false,0.0,3.10291645,false,no_crisis,false,false
+Nigeria,1955,false,0.0,false,false,0.0,6.173562277,false,no_crisis,false,false
+Nigeria,1956,false,0.0,false,false,0.0,6.862909067,false,no_crisis,false,false
+Nigeria,1957,false,0.0,false,false,0.0,1.5463968469999998,false,no_crisis,false,false
+Nigeria,1958,false,0.0,false,false,0.0,-3.399990138,false,no_crisis,false,false
+Nigeria,1959,false,0.0,false,false,0.0,4.707596881000001,false,no_crisis,false,false
+Nigeria,1960,false,0.0,false,false,0.0,4.325727898,true,no_crisis,false,false
+Nigeria,1961,false,0.0,false,false,0.0,6.217386806,true,no_crisis,false,false
+Nigeria,1962,false,0.0,false,false,0.0,2.911602856,true,no_crisis,false,false
+Nigeria,1963,false,0.0,false,false,0.0,-1.028492383,true,no_crisis,false,false
+Nigeria,1964,false,0.0,false,false,0.0,0.9380307609999999,true,no_crisis,false,false
+Nigeria,1965,false,0.0,false,false,0.0,4.601492448999999,true,no_crisis,false,false
+Nigeria,1966,false,0.0,false,false,0.0,8.140460297,true,no_crisis,false,false
+Nigeria,1967,false,0.0,false,false,0.0,-4.55304656,true,no_crisis,false,false
+Nigeria,1968,false,0.0,false,false,0.0,2.733415482,true,no_crisis,false,false
+Nigeria,1969,false,0.0,false,false,0.0,11.00320434,true,no_crisis,false,false
+Nigeria,1970,false,0.0,false,false,0.0,13.41347233,true,no_crisis,false,false
+Nigeria,1971,false,0.0,false,false,0.0,15.47842436,true,no_crisis,false,false
+Nigeria,1972,false,0.0,false,false,0.0,-0.008248214,true,no_crisis,false,false
+Nigeria,1973,false,0.657894999,false,false,0.0,11.67346946,true,crisis,false,false
+Nigeria,1974,false,0.616218881,false,false,0.0,11.25943742,true,no_crisis,false,false
+Nigeria,1975,false,0.6146659289999999,false,false,0.0,38.50391131,true,no_crisis,true,false
+Nigeria,1976,false,0.631074088,false,false,0.0,18.33643443,true,no_crisis,false,false
+Nigeria,1977,false,0.651380928,false,false,0.0,22.3551061,true,no_crisis,true,false
+Nigeria,1978,false,0.64808814,false,false,0.0,15.78133117,true,no_crisis,false,false
+Nigeria,1979,false,0.570613409,false,false,0.0,10.06822352,true,no_crisis,false,false
+Nigeria,1980,false,0.544454729,false,false,0.0,9.97,true,no_crisis,false,false
+Nigeria,1981,false,0.636902109,false,false,0.0,20.555,true,crisis,false,false
+Nigeria,1982,false,0.6702412870000001,false,false,0.0,5.882000000000001,true,no_crisis,true,false
+Nigeria,1983,false,0.7485590240000001,false,false,0.0,22.221999999999998,true,no_crisis,false,false
+Nigeria,1984,false,0.8082767540000001,false,false,0.0,40.909,true,no_crisis,true,false
+Nigeria,1985,false,0.99960016,false,false,0.0,3.2260000000000004,true,crisis,true,false
+Nigeria,1986,false,3.316749585,false,false,0.0,6.25,true,crisis,false,false
+Nigeria,1987,false,4.140786749,false,true,0.0,11.765,true,crisis,false,false
+Nigeria,1988,false,5.353319058,false,true,0.0,34.211,true,crisis,false,false
+Nigeria,1989,false,7.651109411,false,true,0.0,49.02,true,crisis,true,false
+Nigeria,1990,false,9.00090009,false,true,0.0,7.895,true,crisis,true,false
+Nigeria,1992,true,19.64636542,false,true,0.0,44.565,true,crisis,false,true
+Nigeria,1993,true,21.88183807,false,true,0.0,57.143,true,no_crisis,true,true
+Nigeria,1994,true,21.99736032,false,true,0.0,57.416000000000004,true,no_crisis,true,true
+Nigeria,1995,true,21.88662727,false,false,0.0,72.729,true,no_crisis,true,true
+Nigeria,1996,false,21.8861,false,false,0.0,29.291999999999998,true,no_crisis,true,false
+Nigeria,1997,false,21.886,false,false,0.0,10.673,true,no_crisis,true,true
+Nigeria,1998,false,21.886,false,false,0.0,7.862,true,no_crisis,false,false
+Nigeria,1999,false,97.95,false,false,0.0,6.617999999999999,true,crisis,false,false
+Nigeria,2000,false,109.55,false,false,0.0,6.938,true,no_crisis,false,false
+Nigeria,2001,false,112.95,false,false,0.0,18.869,true,no_crisis,false,false
+Nigeria,2002,false,126.4,false,false,0.0,12.883,true,no_crisis,false,false
+Nigeria,2003,false,136.5,false,false,0.0,14.033,true,no_crisis,false,false
+Nigeria,2004,false,132.35,false,true,0.0,15.001,true,no_crisis,false,false
+Nigeria,2005,false,129.0,false,true,0.0,17.855999999999998,true,no_crisis,false,false
+Nigeria,2006,false,128.27,false,false,0.0,8.218,true,no_crisis,false,false
+Nigeria,2007,false,117.96799999999999,false,false,0.0,5.412999999999999,true,no_crisis,false,false
+Nigeria,2008,false,132.5625,false,false,0.0,11.581,true,no_crisis,false,false
+Nigeria,2009,true,149.58100000000002,false,false,0.0,12.543,true,no_crisis,false,true
+Nigeria,2010,true,150.6617,false,false,0.0,13.72,true,no_crisis,false,true
+Nigeria,2011,true,158.267,false,false,0.0,10.841,true,no_crisis,false,true
+Nigeria,2012,true,155.27,false,false,0.0,12.225,true,no_crisis,false,true
+Nigeria,2013,true,155.2,false,false,0.0,8.495,true,no_crisis,false,true
+Nigeria,2014,true,155.25,false,false,0.0,8.048,true,no_crisis,false,true
+South Africa,1900,false,0.2061,false,false,0.0,4.109589041,false,no_crisis,false,false
+South Africa,1901,false,0.2045,false,false,0.0,9.204368175,false,no_crisis,false,false
+South Africa,1902,false,0.2049,false,false,0.0,2.414285714,false,no_crisis,false,false
+South Africa,1903,false,0.2047,false,false,0.0,-8.236853117999999,false,no_crisis,false,false
+South Africa,1904,false,0.20455,false,false,0.0,-5.130348864,false,no_crisis,false,false
+South Africa,1905,false,0.20485,false,false,0.0,-6.753725365,false,no_crisis,false,false
+South Africa,1906,false,0.2053,false,false,0.0,-7.251482086,false,no_crisis,false,false
+South Africa,1907,false,0.20405,false,false,0.0,-1.556276054,false,no_crisis,false,false
+South Africa,1908,false,0.2052,false,false,0.0,-1.5902888869999998,false,no_crisis,false,false
+South Africa,1909,false,0.2049,false,false,0.0,4.838401224,false,no_crisis,false,false
+South Africa,1910,false,0.2048,false,false,0.0,15.38672018,true,no_crisis,false,false
+South Africa,1911,false,0.2051,false,false,0.0,3.999683819,true,no_crisis,false,false
+South Africa,1912,false,0.20485,false,false,0.0,2.561374173,true,no_crisis,false,false
+South Africa,1913,false,0.20485,false,false,0.0,1.252408478,true,no_crisis,false,false
+South Africa,1914,false,0.18925,false,false,0.0,1.236917222,true,no_crisis,false,false
+South Africa,1915,false,0.2063,false,false,0.0,4.87275882,true,no_crisis,false,false
+South Africa,1916,false,0.20965,false,false,0.0,5.81828209,true,no_crisis,false,false
+South Africa,1917,false,0.20985,false,false,0.0,9.889250814,true,no_crisis,false,false
+South Africa,1918,false,0.2098,false,false,0.0,7.001422812,true,no_crisis,false,false
+South Africa,1919,false,0.20985,false,false,0.0,0.93079949,true,no_crisis,false,false
+South Africa,1920,false,0.2532,false,false,0.0,35.18691332,true,no_crisis,true,false
+South Africa,1921,false,0.2406,false,false,0.0,-18.07365899,true,no_crisis,false,false
+South Africa,1922,false,0.21695,false,false,0.0,-3.95519429,true,no_crisis,false,false
+South Africa,1923,false,0.21295,false,false,0.0,0.758592218,true,no_crisis,false,false
+South Africa,1924,false,0.21295,false,false,0.0,0.0,true,no_crisis,false,false
+South Africa,1925,false,0.20575,false,false,0.0,-1.505761844,true,no_crisis,false,false
+South Africa,1926,false,0.2056,false,false,0.0,-1.523581717,true,no_crisis,false,false
+South Africa,1927,false,0.2065,false,false,0.0,2.323371,true,no_crisis,false,false
+South Africa,1928,false,0.2065,false,false,0.0,-0.758592218,true,no_crisis,false,false
+South Africa,1929,false,0.2065,false,false,0.0,-1.523581717,true,no_crisis,false,false
+South Africa,1930,false,0.2065,false,false,0.0,-2.328651389,true,no_crisis,false,false
+South Africa,1931,false,0.2065,false,false,0.0,-3.9682110610000003,true,no_crisis,false,false
+South Africa,1932,false,0.2084,false,false,0.0,-5.4326408829999995,true,no_crisis,false,false
+South Africa,1933,false,0.19635,false,false,0.0,2.39909513,true,crisis,false,false
+South Africa,1934,false,0.1963,false,false,0.0,-1.453403872,true,no_crisis,false,false
+South Africa,1935,false,0.20385,false,false,0.0,-0.44835113,true,no_crisis,false,false
+South Africa,1936,false,0.2008,false,false,0.0,0.906666667,true,no_crisis,false,false
+South Africa,1937,false,0.20199999999999999,false,false,0.0,5.63777308,true,no_crisis,false,false
+South Africa,1938,false,0.2012,false,false,0.0,-0.32243718,true,no_crisis,false,false
+South Africa,1939,false,0.21565,false,false,0.0,0.858895706,true,no_crisis,false,false
+South Africa,1940,false,0.25125,false,false,0.0,3.9261225389999996,true,crisis,false,false
+South Africa,1941,false,0.25125,false,false,0.0,6.02851974,true,no_crisis,false,false
+South Africa,1942,false,0.25125,false,false,0.0,8.671651528,true,no_crisis,false,false
+South Africa,1943,false,0.25125,false,false,0.0,4.964211498,true,no_crisis,false,false
+South Africa,1944,false,0.25125,false,false,0.0,3.8847338319999998,true,no_crisis,false,false
+South Africa,1945,false,0.2497,false,false,0.0,0.7622919579999999,true,no_crisis,false,false
+South Africa,1946,false,0.2497,false,false,0.0,6.0606060610000005,true,no_crisis,false,false
+South Africa,1947,false,0.3077,false,false,0.0,4.287695661,true,no_crisis,false,false
+South Africa,1948,false,0.28985,false,false,0.0,6.847285025,true,no_crisis,false,false
+South Africa,1949,false,0.31745,false,false,0.0,2.564102564,true,no_crisis,false,false
+South Africa,1950,false,0.35715,false,false,0.0,6.875866852000001,true,crisis,false,false
+South Africa,1951,false,0.35715,false,false,0.0,7.653375726,true,no_crisis,false,false
+South Africa,1952,false,0.35715,false,false,0.0,6.609004882000001,true,no_crisis,false,false
+South Africa,1953,false,0.35715,false,false,0.0,0.777385159,true,no_crisis,false,false
+South Africa,1954,false,0.35715,false,false,0.0,3.8457223,true,no_crisis,false,false
+South Africa,1955,false,0.35715,false,false,0.0,1.6990356819999999,true,no_crisis,false,false
+South Africa,1956,false,0.35715,false,false,0.0,1.888446215,true,no_crisis,false,false
+South Africa,1957,false,0.3568,false,false,0.0,3.2637313939999997,true,no_crisis,false,false
+South Africa,1958,false,0.3554,false,false,0.0,3.1605785980000003,true,no_crisis,false,false
+South Africa,1959,false,0.35555,false,false,0.0,0.785513275,true,no_crisis,false,false
+South Africa,1960,false,0.3557,false,false,0.0,1.583062206,true,no_crisis,false,false
+South Africa,1961,false,0.3557,false,false,0.0,2.079449304,true,no_crisis,false,false
+South Africa,1962,false,0.3557,false,false,0.0,1.325278636,true,no_crisis,false,false
+South Africa,1963,false,0.3573,false,false,0.0,1.005222535,true,no_crisis,false,false
+South Africa,1964,false,0.3576,false,false,0.0,4.141937863,true,no_crisis,false,false
+South Africa,1965,false,0.3571,false,false,0.0,3.489437844,true,no_crisis,false,false
+South Africa,1966,false,0.3571,false,false,0.0,3.638360819,true,no_crisis,false,false
+South Africa,1968,false,0.7119,false,false,0.0,3.045535464,true,no_crisis,false,false
+South Africa,1969,false,0.7149,false,false,0.0,3.8123915960000003,true,no_crisis,false,false
+South Africa,1970,false,0.7131,false,false,0.0,4.882526907,true,no_crisis,false,false
+South Africa,1971,false,0.696,false,false,0.0,6.705448811,true,no_crisis,false,false
+South Africa,1972,false,0.7394,false,false,0.0,8.431511329,true,no_crisis,false,false
+South Africa,1973,false,0.6667,false,false,0.0,10.76861601,true,no_crisis,false,false
+South Africa,1974,false,0.6678,false,false,0.0,13.81223876,true,no_crisis,false,false
+South Africa,1975,false,0.6725,false,false,0.0,11.25107466,true,no_crisis,false,false
+South Africa,1976,false,0.8673,false,false,0.0,11.31771632,true,no_crisis,false,false
+South Africa,1977,false,0.8681,false,false,0.0,10.21066965,true,no_crisis,false,true
+South Africa,1978,false,0.8684,false,false,0.0,12.23442663,true,no_crisis,false,true
+South Africa,1979,false,0.8244,false,false,0.0,13.89287442,true,no_crisis,false,false
+South Africa,1980,false,0.745378653,false,false,0.0,14.235999999999999,true,no_crisis,false,false
+South Africa,1981,false,0.9565716479999999,false,false,0.0,15.741,true,crisis,false,false
+South Africa,1982,false,1.0763104079999999,false,false,0.0,14.4,true,no_crisis,false,false
+South Africa,1983,false,1.221896383,false,false,0.0,12.587,true,no_crisis,false,false
+South Africa,1984,false,1.984914649,false,false,0.0,11.18,true,crisis,false,false
+South Africa,1985,false,2.557544764,false,true,0.36,16.201,true,crisis,false,false
+South Africa,1986,false,2.183406114,false,true,0.36,18.75,true,no_crisis,false,false
+South Africa,1987,false,1.929943067,false,true,0.36,16.194000000000003,true,no_crisis,false,false
+South Africa,1988,false,2.377725468,false,false,0.0,12.892000000000001,true,crisis,false,false
+South Africa,1989,false,2.536011361,false,true,0.36,14.505999999999998,true,no_crisis,false,true
+South Africa,1990,false,2.562525625,false,false,0.0,14.286,true,no_crisis,false,false
+South Africa,1991,false,2.743032697,false,false,0.0,15.565999999999999,true,no_crisis,false,false
+South Africa,1992,false,3.053,false,false,0.0,13.673,true,no_crisis,false,false
+South Africa,1993,false,3.3975,false,true,0.36,9.874,true,no_crisis,false,false
+South Africa,1994,false,3.5435,false,false,0.0,8.824,true,no_crisis,false,false
+South Africa,1995,false,3.6475,false,false,0.0,8.709,true,no_crisis,false,false
+South Africa,1996,false,4.6825,false,false,0.0,7.32,true,crisis,false,false
+South Africa,1997,false,4.8675,false,false,0.0,8.623,true,no_crisis,false,false
+South Africa,1998,false,5.86,false,false,0.0,6.872000000000001,true,crisis,false,false
+South Africa,1999,false,6.1545,false,false,0.0,5.211,true,no_crisis,false,false
+South Africa,2000,false,7.5685,false,false,0.0,5.374,true,crisis,false,false
+South Africa,2001,false,12.1265,false,false,0.0,5.7,true,crisis,false,false
+South Africa,2002,false,8.64,false,false,0.0,9.177,true,no_crisis,false,false
+South Africa,2003,false,6.64,false,false,0.0,5.806,true,no_crisis,false,false
+South Africa,2004,false,5.63,false,false,0.0,1.392,true,no_crisis,false,false
+South Africa,2005,false,6.325,false,false,0.0,3.3930000000000002,true,no_crisis,false,false
+South Africa,2006,false,6.97,false,false,0.0,4.688,true,no_crisis,false,false
+South Africa,2007,false,6.81,false,false,0.0,7.09,true,no_crisis,false,false
+South Africa,2008,false,9.305,false,false,0.0,11.536,true,crisis,false,false
+South Africa,2009,false,7.38,false,false,0.0,7.13,true,no_crisis,false,false
+South Africa,2010,false,6.6316,false,false,0.0,4.257,true,no_crisis,false,false
+South Africa,2011,false,8.1429,false,false,0.0,5.0,true,crisis,false,false
+South Africa,2012,false,8.50115,false,false,0.0,5.654,true,no_crisis,false,false
+South Africa,2013,false,10.48985,false,false,0.0,5.752000000000001,true,crisis,false,false
+Tunisia,1940,false,49.18899999999999,false,false,0.0,22.01300157,false,no_crisis,true,false
+Tunisia,1941,false,44.937,false,false,0.0,24.58203197,false,no_crisis,true,false
+Tunisia,1942,false,129.83100000000002,false,false,0.0,24.99631323,false,no_crisis,true,false
+Tunisia,1943,false,50.0,false,false,0.0,72.10948561,false,no_crisis,true,false
+Tunisia,1944,false,55.355,false,false,0.0,37.61310666,false,crisis,true,false
+Tunisia,1945,false,55.191,false,false,0.0,13.77833126,false,no_crisis,false,false
+Tunisia,1946,false,119.3,false,false,0.0,49.61253886,false,crisis,true,false
+Tunisia,1947,false,119.3,false,false,0.0,67.09975712,false,no_crisis,true,false
+Tunisia,1948,false,119.3,false,false,0.0,69.14172635,false,no_crisis,true,false
+Tunisia,1949,false,214.34,false,false,0.0,4.1569601910000005,false,crisis,false,false
+Tunisia,1950,false,349.5,false,false,0.0,3.502982107,false,crisis,false,false
+Tunisia,1951,false,349.5,false,false,0.0,15.03591871,false,no_crisis,false,false
+Tunisia,1952,false,349.5,false,false,0.0,7.006177993,false,no_crisis,false,false
+Tunisia,1953,false,349.5,false,false,0.0,-0.595293824,false,no_crisis,false,false
+Tunisia,1954,false,349.5,false,false,0.0,4.192011553,false,no_crisis,false,false
+Tunisia,1955,false,349.5,false,false,0.0,0.0,false,no_crisis,false,false
+Tunisia,1956,false,349.5,false,true,0.06,4.807532957,true,no_crisis,false,false
+Tunisia,1957,false,350.0,false,false,0.0,5.504844321,true,no_crisis,false,false
+Tunisia,1959,false,0.42,false,false,0.0,-8.264216667000001,true,no_crisis,false,false
+Tunisia,1960,false,0.42,false,false,0.0,1.8018844619999999,true,no_crisis,false,false
+Tunisia,1961,false,0.42,false,false,0.0,-1.769991264,true,no_crisis,false,false
+Tunisia,1962,false,0.42,false,false,0.0,5.78395737,true,no_crisis,false,false
+Tunisia,1963,false,0.42,false,true,0.06,0.970776621,true,no_crisis,false,false
+Tunisia,1964,false,0.42,false,false,0.0,5.939573493999999,true,no_crisis,false,false
+Tunisia,1965,false,0.52,false,false,0.0,5.549985502,true,crisis,false,false
+Tunisia,1966,false,0.52,false,false,0.0,4.5361020739999995,true,no_crisis,false,false
+Tunisia,1967,false,0.52,false,false,0.0,2.843700217,true,no_crisis,false,false
+Tunisia,1968,false,0.52,false,false,0.0,2.498763969,true,no_crisis,false,false
+Tunisia,1969,false,0.52,false,false,0.0,2.804694188,true,no_crisis,false,false
+Tunisia,1970,false,0.52,false,false,0.0,1.562639485,true,no_crisis,false,false
+Tunisia,1971,false,0.48,false,false,0.0,4.253194018,true,no_crisis,false,false
+Tunisia,1972,false,0.475,false,false,0.0,2.715966924,true,no_crisis,false,false
+Tunisia,1973,false,0.3865,false,false,0.0,5.784875818,true,no_crisis,false,false
+Tunisia,1974,false,0.425,false,false,0.0,4.685641394,true,crisis,false,false
+Tunisia,1975,false,0.4712,false,false,0.0,10.05684308,true,no_crisis,false,false
+Tunisia,1976,false,0.5587,false,false,0.0,3.293128476,true,no_crisis,false,false
+Tunisia,1977,false,0.4275,false,false,0.0,8.19487405,true,no_crisis,false,false
+Tunisia,1978,false,0.46,false,false,0.0,4.63026082,true,crisis,false,false
+Tunisia,1979,false,0.405,false,true,0.06,8.557119849,true,no_crisis,false,false
+Tunisia,1980,false,0.418699999,false,true,0.06,10.011000000000001,true,no_crisis,false,false
+Tunisia,1981,false,0.515649999,false,true,0.06,8.902999999999999,true,no_crisis,false,false
+Tunisia,1982,false,0.6157499989999999,false,true,0.06,13.673,true,no_crisis,false,false
+Tunisia,1983,false,0.7271,false,false,0.0,8.972000000000001,true,no_crisis,false,false
+Tunisia,1984,false,0.8666,false,false,0.0,8.596,true,no_crisis,false,false
+Tunisia,1985,false,0.75695,false,false,0.0,7.551,true,no_crisis,false,false
+Tunisia,1986,false,0.8402,false,false,0.0,6.159,true,crisis,false,false
+Tunisia,1987,false,0.77785,false,false,0.0,8.224,true,no_crisis,false,false
+Tunisia,1988,false,0.89845,false,false,0.0,7.156000000000001,true,no_crisis,false,false
+Tunisia,1989,false,0.9046,false,false,0.0,7.722,true,no_crisis,false,false
+Tunisia,1990,false,0.83675,false,false,0.0,6.502000000000001,true,no_crisis,false,false
+Tunisia,1991,true,0.8645,false,false,0.0,7.693,true,no_crisis,false,true
+Tunisia,1992,true,0.95065,false,false,0.0,5.518,true,no_crisis,false,true
+Tunisia,1993,true,1.0466,false,false,0.0,4.04,true,no_crisis,false,true
+Tunisia,1994,true,0.9912,false,false,0.0,5.422999999999999,true,no_crisis,false,true
+Tunisia,1995,true,0.9508,false,false,0.0,6.232,true,no_crisis,false,true
+Tunisia,1996,false,0.9985,false,false,0.0,3.733,true,no_crisis,false,false
+Tunisia,1997,false,1.1475,false,false,0.0,3.5989999999999998,true,no_crisis,false,false
+Tunisia,1998,false,1.101,false,false,0.0,3.102,true,no_crisis,false,false
+Tunisia,1999,false,1.2525,false,false,0.0,2.7680000000000002,true,no_crisis,false,false
+Tunisia,2000,false,1.3853,false,false,0.0,2.77,true,no_crisis,false,false
+Tunisia,2001,false,1.4683,false,false,0.0,1.9869999999999999,true,no_crisis,false,false
+Tunisia,2002,false,1.3341,false,false,0.0,2.7060000000000004,true,no_crisis,false,false
+Tunisia,2003,false,1.2083,false,false,0.0,2.7239999999999998,true,no_crisis,false,false
+Tunisia,2004,false,1.1994,false,false,0.0,3.6210000000000004,true,no_crisis,false,false
+Tunisia,2005,false,1.3634,false,false,0.0,1.444,true,no_crisis,false,false
+Tunisia,2006,false,1.2971,false,false,0.0,4.143,true,no_crisis,false,false
+Tunisia,2007,false,1.2207,false,false,0.0,3.438,true,no_crisis,false,false
+Tunisia,2008,false,1.3099,false,false,0.0,4.913,true,no_crisis,false,false
+Tunisia,2009,false,1.3173,false,false,0.0,3.53,true,no_crisis,false,false
+Tunisia,2010,false,1.4379,false,false,0.0,4.409,true,no_crisis,false,false
+Tunisia,2011,false,1.4993,false,false,0.0,3.5410000000000004,true,no_crisis,false,false
+Tunisia,2012,false,1.5506,false,false,0.0,5.138999999999999,true,no_crisis,false,false
+Tunisia,2013,false,1.6530956959999998,false,false,0.0,5.805,true,no_crisis,false,false
+Tunisia,2014,false,1.8624117980000001,false,false,0.0,4.9239999999999995,true,no_crisis,false,false
+Zambia,1943,false,0.0004976,false,false,0.0,2.857142857,false,no_crisis,false,false
+Zambia,1944,false,0.0004976,false,false,0.0,2.777777778,false,no_crisis,false,false
+Zambia,1945,false,0.0004968,false,false,0.0,2.702702703,false,no_crisis,false,false
+Zambia,1946,false,0.0004968,false,false,0.0,7.894736842,false,no_crisis,false,false
+Zambia,1947,false,0.0004958,false,false,0.0,2.43902439,false,no_crisis,false,false
+Zambia,1948,false,0.000496,false,false,0.0,4.7619047619999995,false,no_crisis,false,false
+Zambia,1949,false,0.0007142,false,false,0.0,2.272727273,false,no_crisis,false,false
+Zambia,1950,false,0.000714,false,false,0.0,4.444444444,false,crisis,false,false
+Zambia,1951,false,0.000719,false,false,0.0,6.382978723,false,no_crisis,false,false
+Zambia,1952,false,0.0007118,false,false,0.0,4.0,false,no_crisis,false,false
+Zambia,1953,false,0.0007116000000000001,false,false,0.0,3.8461538460000004,false,no_crisis,false,false
+Zambia,1954,false,0.000718,false,false,0.0,3.7037037039999996,false,no_crisis,false,false
+Zambia,1955,false,0.0007136,false,false,0.0,3.571428571,false,no_crisis,false,false
+Zambia,1956,false,0.000718,false,false,0.0,3.1034482760000004,false,no_crisis,false,false
+Zambia,1957,false,0.000712,false,false,0.0,3.177257525,false,no_crisis,false,false
+Zambia,1958,false,0.0007138,false,false,0.0,1.13452188,false,no_crisis,false,false
+Zambia,1959,false,0.0007144,false,false,0.0,2.083333333,false,no_crisis,false,false
+Zambia,1960,false,0.0007134,false,false,0.0,3.453689168,false,no_crisis,false,false
+Zambia,1961,false,0.0007122000000000001,false,false,0.0,0.151745068,false,no_crisis,false,false
+Zambia,1962,false,0.0007136,false,false,0.0,1.363636364,false,no_crisis,false,false
+Zambia,1963,false,0.000715,false,false,0.0,-0.448430493,false,no_crisis,false,false
+Zambia,1964,false,0.0007168,false,false,0.0,3.0030030030000003,true,no_crisis,false,false
+Zambia,1965,false,0.0007136,false,false,0.0,8.163265306,true,no_crisis,false,false
+Zambia,1966,false,0.0007168,false,false,0.0,10.242587599999998,true,no_crisis,false,false
+Zambia,1967,false,0.0007104,false,false,0.0,5.012224938999999,true,no_crisis,false,false
+Zambia,1968,false,0.0007168,false,false,0.0,10.71012806,true,no_crisis,false,false
+Zambia,1969,false,0.0007126000000000001,false,false,0.0,2.523659306,true,no_crisis,false,false
+Zambia,1970,false,0.0007141,false,false,0.0,2.564102564,true,no_crisis,false,false
+Zambia,1971,false,0.0007143,false,false,0.0,6.52173913,true,no_crisis,false,false
+Zambia,1972,false,0.0007143,false,false,0.0,4.7619047619999995,true,no_crisis,false,false
+Zambia,1973,false,0.0006429,false,false,0.0,6.493506494,true,no_crisis,false,false
+Zambia,1974,false,0.0006429,false,false,0.0,7.926829268,true,no_crisis,false,false
+Zambia,1975,false,0.0006429,false,false,0.0,10.16949153,true,no_crisis,false,false
+Zambia,1976,false,0.0007934,false,false,0.0,18.97435897,true,no_crisis,false,false
+Zambia,1977,false,0.0007589,false,false,0.0,19.82758621,true,crisis,false,false
+Zambia,1978,false,0.0007862,false,false,0.0,16.18705036,true,no_crisis,false,false
+Zambia,1979,false,0.0007775000000000001,false,false,0.0,9.59752322,true,no_crisis,false,false
+Zambia,1980,false,0.0008031000000000001,false,false,0.0,11.729000000000001,true,no_crisis,false,false
+Zambia,1981,false,0.00088,false,false,0.0,13.997,true,no_crisis,false,false
+Zambia,1982,false,0.0009285,false,false,0.0,12.495,true,no_crisis,false,false
+Zambia,1983,false,0.001236,false,true,0.0,19.692,true,crisis,false,false
+Zambia,1984,false,0.002105,false,true,0.0,20.019000000000002,true,crisis,true,false
+Zambia,1985,false,0.00563,false,true,0.0,37.43,true,crisis,true,false
+Zambia,1986,false,0.014480000000000002,false,true,0.0,54.8,true,crisis,true,false
+Zambia,1987,false,0.0077,false,true,0.0,47.028,true,no_crisis,true,false
+Zambia,1988,false,0.0095,false,true,0.0,54.042,true,crisis,true,false
+Zambia,1989,false,0.01841,false,true,0.0,128.29399999999998,true,crisis,true,false
+Zambia,1990,false,0.0459,false,true,0.0,109.55799999999999,true,crisis,true,false
+Zambia,1991,false,0.08732999999999999,false,true,0.0,97.70100000000001,true,crisis,true,false
+Zambia,1992,false,0.31496,false,true,0.0,165.725,true,crisis,true,false
+Zambia,1993,false,0.561,false,true,0.0,183.263,true,crisis,true,false
+Zambia,1994,false,0.6990000000000001,false,true,0.0,54.614,true,crisis,true,false
+Zambia,1995,true,0.978,false,false,0.0,34.905,true,crisis,true,true
+Zambia,1996,true,1.287,false,false,0.0,43.095,true,crisis,true,true
+Zambia,1997,true,1.44,false,false,0.0,24.41,true,no_crisis,true,true
+Zambia,1998,true,2.425,false,false,0.0,24.456,true,crisis,true,true
+Zambia,1999,false,2.76,false,false,0.0,26.79,true,no_crisis,true,false
+Zambia,2000,false,4.45,false,false,0.0,26.1,true,crisis,true,false
+Zambia,2001,false,3.735,false,false,0.0,21.357,true,no_crisis,true,false
+Zambia,2002,false,4.5,false,false,0.0,22.239,true,no_crisis,true,false
+Zambia,2003,false,4.4,false,false,0.0,21.4,true,no_crisis,true,false
+Zambia,2004,false,4.6,false,false,0.0,17.969,true,no_crisis,false,false
+Zambia,2005,false,3.34,false,false,0.0,18.325,true,no_crisis,false,false
+Zambia,2006,false,4.4172199999999995,false,false,0.0,9.017000000000001,true,no_crisis,false,false
+Zambia,2007,false,3.83,false,false,0.0,10.655,true,no_crisis,false,false
+Zambia,2008,false,4.83226,false,false,0.0,12.449000000000002,true,crisis,false,false
+Zambia,2009,false,4.631,false,false,0.0,13.392000000000001,true,no_crisis,false,false
+Zambia,2010,false,4.7899,false,false,0.0,8.5,true,no_crisis,false,false
+Zambia,2011,false,5.113980000000001,false,false,0.0,8.658,true,no_crisis,false,false
+Zambia,2012,false,5.1466133,false,false,0.0,6.575,true,no_crisis,false,false
+Zambia,2013,false,5.52,false,false,0.0,6.978,true,crisis,false,false
+Zambia,2014,false,6.3856,false,false,0.0,7.811,true,no_crisis,false,false
+Zimbabwe,1921,false,4.81e-27,false,false,0.0,-17.24137931,false,no_crisis,false,false
+Zimbabwe,1922,false,4.34e-27,false,false,0.0,-13.88888889,false,no_crisis,false,false
+Zimbabwe,1923,false,4.589999999999999e-27,false,false,0.0,-4.032258065,false,no_crisis,false,false
+Zimbabwe,1927,false,4.1e-27,false,false,0.0,0.847457627,false,no_crisis,false,false
+Zimbabwe,1928,false,4.1200000000000004e-27,false,false,0.0,0.8403361340000001,false,no_crisis,false,false
+Zimbabwe,1929,false,4.1e-27,false,false,0.0,0.0,false,no_crisis,false,false
+Zimbabwe,1930,false,4.1200000000000004e-27,false,false,0.0,-5.0,false,no_crisis,false,false
+Zimbabwe,1931,false,5.929999999999999e-27,false,false,0.0,-7.01754386,false,no_crisis,false,false
+Zimbabwe,1932,false,6.100000000000001e-27,false,false,0.0,-3.7735849060000004,false,no_crisis,false,false
+Zimbabwe,1933,false,3.910000000000001e-27,false,false,0.0,-2.9411764710000003,false,no_crisis,false,false
+Zimbabwe,1934,false,4.0400000000000005e-27,false,false,0.0,-1.01010101,false,no_crisis,false,false
+Zimbabwe,1935,false,4.06e-27,false,false,0.0,0.0,false,no_crisis,false,false
+Zimbabwe,1936,false,4.08e-27,false,false,0.0,-1.020408163,false,no_crisis,false,false
+Zimbabwe,1937,false,4e-27,false,false,0.0,6.18556701,false,no_crisis,false,false
+Zimbabwe,1938,false,4.2799999999999995e-27,false,false,0.0,-2.9126213589999996,false,no_crisis,false,false
+Zimbabwe,1939,false,5.09e-27,false,false,0.0,0.906344411,false,no_crisis,false,false
+Zimbabwe,1940,false,4.96e-27,false,false,0.0,2.9940119760000004,false,no_crisis,false,false
+Zimbabwe,1941,false,4.96e-27,false,false,0.0,3.7790697669999997,false,no_crisis,false,false
+Zimbabwe,1942,false,4.96e-27,false,false,0.0,5.6022408960000005,false,no_crisis,false,false
+Zimbabwe,1943,false,4.96e-27,false,false,0.0,6.100795756,false,no_crisis,false,false
+Zimbabwe,1944,false,4.96e-27,false,false,0.0,3.0,false,no_crisis,false,false
+Zimbabwe,1945,false,4.96e-27,false,false,0.0,2.669902913,false,no_crisis,false,false
+Zimbabwe,1946,false,4.96e-27,false,false,0.0,5.200945626,false,no_crisis,false,false
+Zimbabwe,1947,false,4.96e-27,false,false,0.0,2.921348315,false,no_crisis,false,false
+Zimbabwe,1948,false,4.96e-27,false,false,0.0,9.388646288,false,no_crisis,false,false
+Zimbabwe,1949,false,7.140000000000001e-27,false,false,0.0,3.79241517,false,no_crisis,false,false
+Zimbabwe,1950,false,7.140000000000001e-27,false,false,0.0,7.692307692000001,false,no_crisis,false,false
+Zimbabwe,1951,false,7.140000000000001e-27,false,false,0.0,6.964285714,false,no_crisis,false,false
+Zimbabwe,1952,false,7.140000000000001e-27,false,false,0.0,8.180300501,false,no_crisis,false,false
+Zimbabwe,1953,false,7.140000000000001e-27,false,false,0.0,2.777777778,false,no_crisis,false,false
+Zimbabwe,1954,false,7.140000000000001e-27,false,false,0.0,0.0,false,no_crisis,false,false
+Zimbabwe,1955,false,7.140000000000001e-27,false,false,0.0,1.651651652,false,no_crisis,false,false
+Zimbabwe,1956,false,7.18e-27,false,false,0.0,4.4313146230000005,false,no_crisis,false,false
+Zimbabwe,1957,false,7.1e-27,false,false,0.0,2.97029703,false,no_crisis,false,false
+Zimbabwe,1958,false,7.1e-27,false,false,0.0,3.571428571,false,no_crisis,false,false
+Zimbabwe,1959,false,7.12e-27,false,false,0.0,2.652519894,false,no_crisis,false,false
+Zimbabwe,1960,false,7.15e-27,false,false,0.0,2.4547803619999997,false,no_crisis,false,false
+Zimbabwe,1961,false,7.109999999999999e-27,false,false,0.0,2.90037831,false,no_crisis,false,false
+Zimbabwe,1962,false,7.140000000000001e-27,false,false,0.0,2.083333333,false,no_crisis,false,false
+Zimbabwe,1963,false,7.140000000000001e-27,false,false,0.0,1.080432173,false,no_crisis,false,false
+Zimbabwe,1964,false,7.140000000000001e-27,false,false,0.0,2.500022554,false,no_crisis,false,false
+Zimbabwe,1965,false,7.140000000000001e-27,true,true,0.0,2.5000034319999997,true,no_crisis,false,false
+Zimbabwe,1966,false,7.140000000000001e-27,true,true,0.0,3.121953195,true,no_crisis,false,false
+Zimbabwe,1967,false,7.140000000000001e-27,true,true,0.0,2.365179967,true,no_crisis,false,false
+Zimbabwe,1968,false,7.140000000000001e-27,true,true,0.0,1.38631904,true,no_crisis,false,false
+Zimbabwe,1969,false,7.140000000000001e-27,true,true,0.0,0.364644862,true,no_crisis,false,false
+Zimbabwe,1970,false,7.159999999999999e-27,true,true,0.0,2.088991186,true,no_crisis,false,false
+Zimbabwe,1971,false,6.71e-27,true,true,0.0,3.024884047,true,no_crisis,false,false
+Zimbabwe,1972,false,6.520000000000001e-27,true,true,0.0,2.84975748,true,no_crisis,false,false
+Zimbabwe,1973,false,6.06e-27,true,true,0.0,3.1066413760000002,true,no_crisis,false,false
+Zimbabwe,1974,false,5.49e-27,true,true,0.0,6.596092646000001,true,no_crisis,false,false
+Zimbabwe,1975,false,6.25e-27,true,true,0.0,10.00764002,true,no_crisis,false,false
+Zimbabwe,1976,false,6.19e-27,true,true,0.0,11.0416805,true,no_crisis,false,false
+Zimbabwe,1977,false,6.470000000000001e-27,true,true,0.0,10.25640067,true,crisis,false,false
+Zimbabwe,1978,false,6.75e-27,true,true,0.0,8.229915112,true,no_crisis,false,false
+Zimbabwe,1979,false,6.740000000000001e-27,true,true,0.0,12.55279758,true,no_crisis,false,false
+Zimbabwe,1980,false,6.31e-27,true,true,0.0,7.2,true,no_crisis,false,false
+Zimbabwe,1981,false,7.23e-27,false,false,0.0,13.2,true,no_crisis,false,false
+Zimbabwe,1982,false,7.390000000000002e-27,false,false,0.0,10.4,true,crisis,false,false
+Zimbabwe,1983,false,1.11e-26,false,false,0.0,23.2,true,crisis,true,false
+Zimbabwe,1984,false,1.4500000000000002e-26,false,false,0.0,20.3,true,crisis,true,false
+Zimbabwe,1985,false,1.6299999999999997e-26,false,false,0.0,8.3,true,no_crisis,false,false
+Zimbabwe,1986,false,1.6799999999999998e-26,false,false,0.0,14.5,true,no_crisis,false,false
+Zimbabwe,1987,false,1.6e-26,false,false,0.0,12.5,true,no_crisis,false,false
+Zimbabwe,1988,false,1.93e-26,false,false,0.0,7.4,true,crisis,false,false
+Zimbabwe,1989,false,2.22e-26,false,false,0.0,12.8,true,crisis,false,false
+Zimbabwe,1990,false,2.61e-26,false,false,0.0,17.4,true,crisis,false,false
+Zimbabwe,1991,false,5.04e-26,false,false,0.0,24.0,true,crisis,true,false
+Zimbabwe,1992,false,5.37e-26,false,false,0.0,41.6,true,no_crisis,true,false
+Zimbabwe,1993,false,6.809999999999999e-26,false,false,0.0,28.2,true,crisis,true,false
+Zimbabwe,1994,false,8.38e-26,false,false,0.0,21.11354311,true,crisis,true,false
+Zimbabwe,1995,true,9.31e-26,false,false,0.0,25.80873955,true,no_crisis,true,true
+Zimbabwe,1996,true,1.0800000000000002e-25,false,false,0.0,16.40028408,true,crisis,false,true
+Zimbabwe,1997,true,1.8299999999999999e-25,false,false,0.0,20.0650384,true,crisis,true,true
+Zimbabwe,1998,true,3.7099999999999996e-25,false,false,0.0,46.61127497,true,crisis,true,true
+Zimbabwe,1999,true,3.7200000000000005e-25,false,false,0.0,56.92320336,true,no_crisis,true,true
+Zimbabwe,2000,true,5.5e-25,true,true,0.0,55.20369616,true,crisis,true,true
+Zimbabwe,2001,true,5.51e-25,true,true,0.0,112.1184112,true,no_crisis,true,true
+Zimbabwe,2002,true,5.5e-25,true,true,0.0,198.928606,true,no_crisis,true,true
+Zimbabwe,2003,true,7.95e-24,true,true,0.0,598.7447505,true,crisis,true,true
+Zimbabwe,2004,true,5.600000000000001e-23,true,true,0.0,132.7467739,true,crisis,true,true
+Zimbabwe,2005,true,8.46e-22,true,true,0.0,585.8443656000001,true,crisis,true,true
+Zimbabwe,2006,true,3e-19,true,true,0.0,1281.113605,true,crisis,true,true
+Zimbabwe,2007,true,1.8999999999999998e-16,true,true,0.0,66279.89237,true,crisis,true,true
+Zimbabwe,2008,true,0.002,true,true,0.0,21989695.22,true,crisis,true,true
+Zimbabwe,2009,true,354.8,true,true,0.0,-7.67,true,crisis,false,true
+Zimbabwe,2010,false,378.2,true,true,0.0,3.217,true,no_crisis,false,false
+Zimbabwe,2011,false,361.9,true,true,0.0,4.92,true,no_crisis,false,false
+Zimbabwe,2012,false,361.9,true,true,0.0,3.72,true,no_crisis,false,false
+Zimbabwe,2013,false,361.9,true,true,0.0,1.632,true,no_crisis,false,false
